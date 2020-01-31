@@ -1,0 +1,303 @@
+= Mitarbeiterbindung und Karriere: Businessplan
+Andreas Petersell, Roman Meyer
+:revnumber: 2.0
+:revdate: 31.01.2020
+:description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
+:organization: Jobikado
+:pdf-theme: jobikado
+:pdf-themesdir: ../asciidoc/asciidoctor
+:icons: font
+:sectanchors:
+:imagesdir: images
+// article or book
+:doctype: book
+// title-page with doctype = book
+:title-page:
+:title-logo-image: image:jobikado.png[pdfwidth=50%,align=right]
+:sectnums:
+:toc-title: Inhalt
+:toc: macro
+// vignetten und eingezogener Absatz
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+// no string "Chapter" in H2
+:chapter-label:
+:figure-caption: Abb.
+
+toc::[]
+
+== Zusammenfassung
+
+Der Name Jobikado leitet sich von einer großen Gefahr ab: kündigen zu viele Fachkräfte zur gleichen Zeit, ist es nicht mehr möglich, jahrelang erworbene Erfahrung weiterzugeben. Das Unternehmen implodiert, ähnlich wie beim Mikado. Entzieht man dem Wirrwar zugleich zu viele Stäbchen, fällt alles in sich zusammen.
+
+*Sie sind Geschäftsführer oder Personalverantwortlicher eines Unternehmens?*
+
+TIP: Stellen Sie sich vor, Ihre Fluktuationsrate innerhalb Ihrer Mitarbeiter geht gegen Null? Nun, dafür müssen Sie selbst sorgen. Jobikado ist Ihnen aber dabei eine große Hilfe.
+
+*Sie sind eine gelernte oder studierte Fachkraft ohne Personalverantwortung?*
+
+TIP: Stellen Sie sich vor, Ihre Geschäftsführung passt regelmäßig Ihr Gehalt an? Dabei hilft Jobikado. Sieht Ihr Chef Ihre Entlohnung immer noch mit anderen Augen, helfen wir Ihnen, einen neuen Job zu finden.
+
+Unternehmen suchen ständig nach neuen Fachkräften. Dies können sie über Jobikado tun. Aber Jobikado gibt auch allen Unternehmen die Möglichkeit, die eigenen Mitarbeiter ans Unternehmen zu binden und die Angebote anderer Firmen abzuwehren. Diesen vermeintlichen Gegensatz vereint Jobikado.
+
+=== Zwei Zielgruppen
+
+Jobikado richtet sich im Unternehmen
+
+* an die *Geschäftsleitung* und
+* die *festangestellten Fachkräfte* ohne Personalverantwortung.
+
+Diese beiden Zielgruppen melden sich auf Jobikado an. Der Mitarbeiter hinterlegt im Wesentlichen das aktuelle Gehalt und seine fachlichen Qualifikationen.
+
+=== Anonyme Gehaltsangebote mit Jobikado-Weiche
+
+Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) ein Gehaltsangebot. Dabei sieht es jedoch nicht das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
+
+*Gehaltsangebot liegt über einer 20%igen Erhöhung des aktuellen Gehalts*
+
+* Die Fachkraft erhält das Angebot und kann entscheiden, ob sie zu diesem Unternehmen A Kontakt aufnimmt.
+* Das eigene Unternehmen B erfährt davon nichts.
+
+*Gehaltsangebot liegt unterhalb einer 20%igen Erhöhung des aktuellen Gehalts*
+
+* Die Fachkraft erhält das Angebot nicht. Sie bekommt lediglich Kenntnis, dass eines
+eingegangen ist.
+* Das eigene Unternehmen B erhält vom Angebot Kenntnis. Das Unternehmen kann nun entscheiden, ob es seinem Mitarbeiter mehr Gehalt zahlt.
+
+Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden.
+
+Überspitzt formuliert: Die Gehaltsangebote an fremde Fachkräfte wirken wie Raketenangriffe auf diese Unternehmen, jedoch bekommt jedes Unternehmen mit Jobikado einen Schutzschirm in die Hand. Für die Wirksamkeit dieses Schutzschirms kann jedes Unternehmen selbst etwas unternehmen: Es passt kontinuierlich das Gehalt der angefragten Fachkraft an.
+
+== Produkt
+
+(min 3 bis max 7 Seiten)
+
+=== Produktbeschreibung
+
+Jedes Unternehmen bildet mit seinen Mitarbeitern für sich gesehen eine bestimmte Struktur: ein Geflecht aus kulturellen und persönlichen Beziehungen. Darin eingewoben jahrelang erworbenes Wissen und Fertigkeiten. Wenn das Unternehmensmanagement nichts falsch macht, steht das Unternehmen als Einheit für sich stabil, wie diese Zusammenstellung von Mikado-Stäbchen.
+
+.Ohne äußere Einflüsse
+image::staebchenbund1.png[pdfwidth=50%,align=left]
+
+Da die Unternehmen dringend Fachkräfte benötigen, suchen sie diese nicht mehr nur auf dem freien Arbeitsmarkt, sondern auch in der Mitarbeiterschaft fremder Unternehmen. Der gesamte Arbeitsmarkt ist zu einem "War of Talents" entbrannt. Die Spieler bedienen sich gegenseitig munter im Stäbchenbündel des anderen.
+
+.Täglich äußere Einflüsse
+image::staebchenbund2.png[pdfwidth=40%,align=left]
+
+Jedes Unternehmen sollte in zufriedene Mitarbeiter investieren. Ist die Mitarbeiterbindung gering, ist auch der Schutz vor fremden Spielzügen gering. Im Ernstfall werden so viele Mikadostäbchen gezogen, dass die einst stabile Struktur zerfällt.
+
+.Ernstfall
+image::staebchenbund3.png[pdfwidth=40%,align=left]
+
+Der Name Jobikado leitet sich von einer großen Gefahr ab: kündigen zu viele Fachkräfte zur gleichen Zeit, ist es nicht mehr möglich, jahrelang erworbene Erfahrung weiterzugeben. Das Unternehmen kollabiert, ähnlich wie beim Mikado. Entzieht man dem Wirrwar zugleich zu viele Stäbchen, fällt alles in sich zusammen.
+
+Jobikado ist ein Portal für Mitarbeiterbindung und Karriere. Mit Jobikado überprüft der Unternehmer die Mitarbeiterbindung im Unternehmen und kann ggf. früh Einfluss nehmen. Zugleich fördert Jobikado die individuellen Karrieren der Mitarbeiter: entweder durch eine Anpassung des Gehalts oder durch die Unterstützung bei der Jobsuche.
+
+Die Unternehmen suchen ständig nach neuen Fachkräften. Dies können sie über Jobikado tun. Aber Jobikado gibt auch allen Unternehmen die Möglichkeit, die eigenen Mitarbeiter ans Unternehmen zu binden und die Angebote anderer Firmen abzuwehren. Diesen vermeintlichen Gegensatz vereint Jobikado.
+
+Jobikado hilft den Fachkräften, sich über eine Entscheidung bewußt zu werden. Es ist die Versinnbildlichung des _Rubber Band Model of Decision Making_.footnote:[Mikael Krogerus und Roman Tschappeler, The Decision Book: 50 Models for Strategic Thinking,  London 2012]
+
+.Rubber Band Model
+image::rubberbandmodel.png[pdfwidth=70%,align=left]
+
+- *Was hält dich*: die Bindung zu deinem derzeitigen Arbeitgeber.
+- *Was zieht dich*: das Jobangebot des fremden Unternehmens.
+
+Die Fachkraft wird durch Jobikado angehalten, zu überlegen, was sie an den derzeitigen Arbeitgeber bindet. Es konzentriert sich auf die positiven Aspekte der beiden Optionen. Niemand soll vorschnell aus negativen Erfahrungen, eventuell nur aus einer Abteilung herrührend, seinen derzeitigen Arbeitgeber verlassen.
+
+Jobikado erweitert als erstes Geschäftsmodell den Fokus weg von der zentrierten Person hin auf 3 Akteure, die gleichermaßen Verantwortung füreinander, aber auch für sich selbst übernehmen können. Je nach Einsatz der eigenen Ressourcen bringt Jobikado Vor- und Nachteile für die Mitspieler.footnote:[Adaption des Rubberband-Modells an Jobikado von Dave Boddin, Berlin 2020] Grundlage von Jobikado ist
+
+- *Transparenz*: keine vorschnelles Handeln der Beteiligten
+- *Ausgewogenheit*: jeder kann gleichermaßen Verantwortung übernehmen 
+
+
+.Das Jobikado-Gummiband nach Dave Boddin
+image::rubberbandmodel-jobikado.png[pdfwidth=70%,align=left]
+
+=== Funktionen
+
+Jobikado richtet sich im Unternehmen
+
+* an die *Geschäftsleitung* und
+* die *festangestellten Fachkräfte* ohne Personalverantwortung.
+
+Diese beiden Zielgruppen melden sich auf Jobikado an. Der Mitarbeiter hinterlegt im Wesentlichen das aktuelle Gehalt und seine fachlichen Qualifikationen.
+
+==== Anonyme Gehaltsangebote
+
+Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) ein Gehaltsangebot. Dabei sieht es jedoch nicht das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
+
+*Gehaltsangebot liegt über einer 20%igen Erhöhung des aktuellen Gehalts*
+
+* Die Fachkraft erhält das Angebot und kann entscheiden, ob sie zu diesem Unternehmen A Kontakt aufnimmt.
+* Das eigene Unternehmen B erfährt davon nichts.
+
+*Gehaltsangebot liegt unterhalb einer 20%igen Erhöhung des aktuellen Gehalts*
+
+* Die Fachkraft erhält das Angebot nicht. Sie bekommt lediglich Kenntnis, dass eines eingegangen ist.
+* Das eigene Unternehmen B erhält vom Angebot Kenntnis. Das Unternehmen kann nun entscheiden, ob es seinem Mitarbeiter mehr Gehalt zahlt.
+
+Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden. Diese Funktionalität, wir nennen es die _Jobikado-Weiche_ ist das Herzstück von Jobikado.
+
+Überspitzt formuliert: Die Gehaltsangebote an fremde Fachkräfte wirken wie Raketenangriffe auf diese Unternehmen, jedoch bekommt jedes Unternehmen mit Jobikado einen Schutzschirm in die Hand. Für die Wirksamkeit dieses Schutzschirms kann jedes Unternehmen selbst etwas unternehmen: Es passt kontinuierlich das Gehalt der angefragten Fachkraft an.
+
+==== Statistikportal
+
+Neben der Mitarbeiterbindung und Mitarbeitersuche gibt es eine weitere Funktionalität des Portals. Sie dient nicht der Haupteinnahmequelle, ist jedoch aus vielerlei Gründen nicht zu unterschätzen. Jobikado garantiert die Dateneigentümerschaft. Die Fachkräfte müssen im Anmelde-Prozeß ihr Gehalt angeben. Da dies verifizierte Daten sind, haben statistische Auswertungen eine hohe Aussagekraft. Nichtmitglieder müssen für anonyme Statistiken eine Gebühr entrichten. Für Jobikado-Mitglieder sind Auskünfte kostenfrei.
+
+==== Konkurrenzprodukte
+
+Es gibt keine vergleichbaren Konkurrenzprodukte, die ihren Fokus auf die Mitarbeiterbindung legen. Jedoch gibt viele Recruiting-Portale. Letztere fokussieren sich auf die Mitarbeiter-Abwerbung. Das nachhaltige Wohlergehen der einzelnen Firmen spielt bei Xing und den Jobportalen keine Rolle.
+
+Jobikado enthält ein Bündel von Merkmalen, die von der Konkurrenz einzeln abgedeckt werden:
+
+. Charakter des Jobnetzwerks: Xing, LinkedIn
+. Charakter von Online-Personalberatungen: Honeypot, get-in-it.de, 4scotty.com
+. Charakter der Stellensuche: Stepstone, Monster, Indeed
+. Charakter des Abwerbens: Headhunter
+. Charakter des Messens der Mitarbeiterbindung: Peakon.com, heartcount.com
+
+.Jobikado vereint Interessen
+image::fokus-matrix.png[pdfwidth=70%,align=left]
+
+===== Business-Netzwerk
+
+Das ((Business-Netzwerk)) Xing ist klar auf den Wechselwillen der Fachkräfte zugeschnitten. Das nachhaltigte Wirtschaften und das einvernehmliche Arbeiten an gemeinsamen Zielen innerhalb eines Unternehmens ist nicht gewünscht. ((Xing)) ist eine AG und hat ein großes Interesse, die Daten der angemeldeten Fachkräfte mehrfach zu verkaufen. Das ((Arbeitgeberbewertungsportal Kununu)) von Xing sorgt dafür, dass sich das Wechselkarussel nicht zu schnell dreht und nicht gleich ganze Firmen kollabieren. Es soll durch ((Kununu)) der Eindruck entstehen, dass Xing sich um ihre Belange kümmert.
+
+===== Online-Personalberatungen
+
+Es sind viele Personalberatungen gegründet worden, die ausschließlich per Webseite auf die Suche nach Fachkräften gehen. Diese Webseiten hinterlassen den Eindruck, die Fachkräfte-Suche umzukehren: das Unternehmen "bewirbt" sich bei der Fachkraft. Wahr ist, dass sich nicht die Personalberatung bei der Fachkraft meldet, sondern die Fachkraft gleich ihren Lebenslauf bei der ((Personalberatung)) hinterlegt. Da es den Personalberatungen um die Vermittlungsprovision geht, gehen die Fachkräfte auch Nachteile ein. Bei ((Honeypot)) ist ihr Profil nur 3 Wochen sichtbar. Auch können sie sich nicht mehr ohne weiteres eigenständig bei den Firmen bewerben, denn diese fürchten nun die Vermittlungsprovision. Der Anspruch auf letztere wird von Honeypot ein Jahr lang aufrechterhalten.
+
+Derzeit gibt es mehrere Online-Personalberatungen wie ((www.4scotty.com)), ((www.get-in-it.de)) und Honeypot.com. Letztere zeichnet sich durch eine konsequente internationale Ausrichtung aus. Honeypot vermittelt hauptsächlich Fachkräfte aus dem Ausland, speziell aus der Dritten Welt. Dies war Xing im Frühjar 2019 einige Millionen wert.
+
+===== Messung der Mitarbeiterbindung
+
+Softwareprodukte wie ((www.peakon.com)) und ((www.heartcount.com)) möchten die Unternehmer durch Mitarbeiterbefragung befähigen, ein genaues Feedback ihrer Mitarbeiterschaft zu erhalten. Dies geschieht jedoch seitens der Mitarbeiter nicht immer freiwillig. Es ist nur ein schmaler Grat zur Überwachung. Es gibt keine Ausgewogenheit wie bei Jobikado, wo jeder Mitarbeiter freiwillig und anonym in Form des Jobikado-Weichenwertes ein Feedback leistet: mit allen Kollegen als Durchschnittswert zusammen.
+
+=== Kundennutzen
+
+=== Zielgruppen
+
+=== Entwicklungsstand
+
+== Gründerteam
+
+(min 2 bis max 5 Seiten)
+
+=== Kompetenzen
+
+NOTE: Decken sich die Anforderungsprofile der wichtigsten Bereiche des Unternehmens mit den Kompe-tenzprofilen der Gründer (kaufmännische, fachliche bzw. technische Kenntnisse)?
+
+==== Kaufmännisch
+
+==== Fachlich
+
+==== Technisch
+
+=== Schließen von Lücken
+
+=== Schlüsselpersonen und Mentoren
+
+=== Ausstiegsszenario
+
+NOTE: Gibt es ein Ausstiegsszenario, wenn ein Mitglied/Mitglieder das Team verlassen muss/müssen o-der will/werden?
+
+=== Einkommen der Gründungsmitglieder
+
+NOTE: Haben Sie Überlegungen zum kalkulatorischen Unternehmerlohn angestellt?
+
+== Marktanalyse
+
+(min 2bis max 5 Seiten)
+
+=== Beschreibung des Gesamtmarktes
+
+====
+* In welchem Gesamtmarkt/welcher Branche bewegt sich Ihr Unternehmen?
+* Wie hat sich die Branche in der Vergangenheit entwickelt und wie sieht die derzeitige Situation aus?
+* Welche Trends bzw. Prognosen sind für Sie wichtig?
+* Wie groß ist der Gesamtmarkt/die Branche insgesamt (Verkaufsstückzahlen/Umsatz)?
+* Welche äußeren Faktoren beeinflussen die Branche (politisch, rechtlich, technologisch etc.)?
+* Inwieweit haben diese Einfluss auf Ihr Unternehmen?
+* Welche Erfolgsfaktoren kennzeichnen die Branche?
+* Welche Rolle spielen Innovation und technischer Fortschritt?
+* Welche Rolle spielen Aspekte der Nachhaltigkeit auf dem Markt für Ihr Unternehmen?
+* Welche Chancen und Risiken ergeben sich?
+====
+
+
+=== Marktsegmentierung und Marktpotenzial
+
+=== Wettbewerbsumfeld
+
+== Marketing
+
+(min 2 bis max 6 Seiten)
+
+=== Produktpolitik
+
+=== Preispolitik
+
+=== Kommunikationspolitik
+
+=== Vertriebspolitik
+
+== Das Unternehmen
+
+(min 3 bis max 6 Seiten)
+
+=== Geschäftssystem und Kerngeschäft
+
+=== Organisation
+
+=== Meilensteinplanung
+
+=== Rechtsform und Eigentumsverhältnisse
+
+=== Standort
+
+== Finanzplanung und Finanzierung
+
+(min 3 bis max 6 Seiten)
+
+=== Gewinn- und Verlustplanung
+
+
+The technical writer edits help files using https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture[DITA-XML] and VOIS uses the http://www.xmlmind.com/ditac/[DITA-Compiler (DITAC)] to build the help on the fly right after klicking on the help button.
+
+Using DITA means:
+
+. topic oriented writing (you)
+. single source publishing (VOIS for webhelp)
+. reuse (you can)
+. indirect linking (you can)
+. ((conditional processing)) (you can)
+
+indexterm2:[Lancelot] was one of the Knights of the Round Table. 
+indexterm:[knight, Knight of the Round Table, Lancelot]
+indexterm:[indirect linking] 
+
+----
+<task id="kfz-ausser-betrieb-setzen_task" xml:lang="de-de">
+----
+
+As ID please use always the file name without file extension.
+
+* Edit the Indexterms
+* Edit the Shortdesc - it is the first paragraph the user will see
+* Edit all other Metadata
+
+.Scheme of a task
+image::jobikado.png[]
+
+The _hid_ of a process (Vorgang) you get this way:
+
+. Press F12 in the ((VOIS-Client))
+. Switch to the tab _Konsole_
+. At the command prompt, enter the following command
+
+[index]
+== Index

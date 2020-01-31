@@ -1,2 +1,3 @@
 # com.jobikado.documentation
-roman ist doof
+
+Sämtliche Dokumente und Quellen zum Projekt wie Businessplan, Handouts uvm.
