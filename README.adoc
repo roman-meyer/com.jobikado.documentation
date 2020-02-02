@@ -1,0 +1,65 @@
+## com.jobikado.documentation
+
+Sämtliche Dokumente und Quellen zum Projekt wie Businessplan, Handouts uvm.
+
+### Asciidoctor installieren
+
+Sämtliche Asciidoc-Dateien (.adoc) werden mit der Software Asciidoctor in HTML und PDF ausgegeben. Folgende Reihenfolge bei der Installation gilt es einzuhalten:
+
+. Ruby installieren
+. Asciidoctor installieren
+. Asciidoctor für PDF installieren
+
+Hier eine kleine https://petersell.de/asciidoc.html#_asciidoctor_auf_windows_einrichten[Anleitung auf petersell.de]
+
+### Dateistruktur
+
+image::filetree.png[]
+
+#### Verzeichnis _businessplan_
+
+Ein Content-Verzeichnis für eine Publikation, hier dem Businessplan. Es werden weitere Contentverzeichnisse parallel erstellt, wie z.B. _Handout_ oder _Flyer_.
+
+Das Verzeichnis _css_ mit seinen Stylesheets ist nur für die HTML-Generierung wichtig. Sämtliche Bilder einer Publikation im Format JPG oder PNG sind im Verzeichnis _images_ zu finden. So wird in einer adoc-Datei ein Bild anschliessend eingefügt:
+
+[source]
+----
+.Eins schöne Bildunterschrift
+image::staebchenbund1.png[pdfwidth=50%,align=left]
+----
+
+#### Datei _readme.adoc_
+
+Diese Anleitung hier.
+
+### Asciidoc-Datei schreiben
+
+[TIP]
+====
+Ein guter WYSIWYG-Editor ist https://asciidocfx.com/[AsciidocFX]. Etwas schwieriger, da nicht speziell auf Asciidoc zugeschnitten, ist Visual Studio Code.
+====
+
+Unverzichtbare Links:
+
+* https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Syntax Quick Reference]
+* https://asciidoctor.org/docs/asciidoctor-pdf/[Asciidoc für PDF]
+* https://asciidoctor.org/docs/user-manual/[User Manual]
+
+[TIP]
+====
+Von Zeit zu Zeit den Asciidoctor und Asciidoctor-PDF im Kommandozeilenfenster aktualisieren mit `gem update asciidoctor` und `gem update asciidoctor-pdf`.
+====
+
+### PDF erzeugen
+
+Angenommen, das Verzeichnis _asciidoc_ liegt bei Dir auf Laufwerk C:\, dann lautet der Buildbefehl, den Du im Kommandozeilenfenster eingibst, folgendermaßen:
+
+[source]
+----
+asciidoctor-pdf --trace -D C:\asciidoc\businessplan // <1>
+C:\asciidoc\businessplan\businessplan.adoc // <2>
+----
+<1> Pfad zur Ausgabe-Datei
+<2> Pfad der Quelldatei
+
+Im selben Verzeichnis wie die Quelldatei `businessplan.adoc` befindet sich jetzt die PDF-Datei `businessplan.pdf`.
