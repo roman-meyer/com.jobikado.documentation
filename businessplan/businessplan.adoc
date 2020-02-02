@@ -1,11 +1,11 @@
 = Mitarbeiterbindung und Karriere: Businessplan
 Andreas Petersell, Roman Meyer
 :revnumber: 2.0
-:revdate: 31.01.2020
+:revdate: 02.02.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
-:pdf-theme: jobikado
-:pdf-themesdir: ../asciidoc/asciidoctor
+:pdf-theme: default
+//:pdf-themesdir: asciidoctor
 :icons: font
 :sectanchors:
 :imagesdir: images
