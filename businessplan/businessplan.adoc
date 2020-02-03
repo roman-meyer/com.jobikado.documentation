@@ -73,8 +73,6 @@ Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt 
 
 == Produkt
 
-(min 3 bis max 7 Seiten)
-
 === Produktbeschreibung
 
 Jedes Unternehmen bildet mit seinen Mitarbeitern für sich gesehen eine bestimmte Struktur: ein Geflecht aus kulturellen und persönlichen Beziehungen. Darin eingewoben jahrelang erworbenes Wissen und Fertigkeiten. Wenn das Unternehmensmanagement nichts falsch macht, steht das Unternehmen als Einheit für sich stabil, wie diese Zusammenstellung von Mikado-Stäbchen.
@@ -126,7 +124,7 @@ Jobikado richtet sich im Unternehmen
 
 Diese beiden Zielgruppen melden sich auf Jobikado an. Der Mitarbeiter hinterlegt im Wesentlichen das aktuelle Gehalt und seine fachlichen Qualifikationen.
 
-==== Anonyme Gehaltsangebote
+==== Anonyme Gehaltsangebote mit Weiche
 
 Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) ein Gehaltsangebot. Dabei sieht es jedoch nicht das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
 
@@ -152,7 +150,7 @@ Neben der Mitarbeiterbindung und Mitarbeitersuche gibt es eine weitere Funktiona
 
 Es gibt keine vergleichbaren Konkurrenzprodukte, die ihren Fokus auf die Mitarbeiterbindung legen. Jedoch gibt viele Recruiting-Portale. Letztere fokussieren sich auf die Mitarbeiter-Abwerbung. Das nachhaltige Wohlergehen der einzelnen Firmen spielt bei Xing und den Jobportalen keine Rolle.
 
-Jobikado enthält ein Bündel von Merkmalen, die von der Konkurrenz einzeln abgedeckt werden:
+Jobikado bewegt sich innerhalb einer Vielzahl von Merkmalen, die von der Konkurrenz einzeln abgedeckt werden. Hinzu kommen weitere Ausprägungen des Recruiting-Marktes. Hier einige Mitbewerber und ihr hauptsächlicher Charakter:
 
 . Charakter des Jobnetzwerks: Xing, LinkedIn
 . Charakter von Online-Personalberatungen: Honeypot, get-in-it.de, 4scotty.com
@@ -163,19 +161,41 @@ Jobikado enthält ein Bündel von Merkmalen, die von der Konkurrenz einzeln abge
 .Jobikado vereint Interessen
 image::fokus-matrix.png[pdfwidth=70%,align=left]
 
-===== Business-Netzwerk
+===== Business-Netzwerk wie Xing
 
 Das ((Business-Netzwerk)) Xing ist klar auf den Wechselwillen der Fachkräfte zugeschnitten. Das nachhaltigte Wirtschaften und das einvernehmliche Arbeiten an gemeinsamen Zielen innerhalb eines Unternehmens ist nicht gewünscht. ((Xing)) ist eine AG und hat ein großes Interesse, die Daten der angemeldeten Fachkräfte mehrfach zu verkaufen. Das ((Arbeitgeberbewertungsportal Kununu)) von Xing sorgt dafür, dass sich das Wechselkarussel nicht zu schnell dreht und nicht gleich ganze Firmen kollabieren. Es soll durch ((Kununu)) der Eindruck entstehen, dass Xing sich um ihre Belange kümmert.
 
-===== Online-Personalberatungen
+===== Online-Personalberatungen wie honeypot.com
 
 Es sind viele Personalberatungen gegründet worden, die ausschließlich per Webseite auf die Suche nach Fachkräften gehen. Diese Webseiten hinterlassen den Eindruck, die Fachkräfte-Suche umzukehren: das Unternehmen "bewirbt" sich bei der Fachkraft. Wahr ist, dass sich nicht die Personalberatung bei der Fachkraft meldet, sondern die Fachkraft gleich ihren Lebenslauf bei der ((Personalberatung)) hinterlegt. Da es den Personalberatungen um die Vermittlungsprovision geht, gehen die Fachkräfte auch Nachteile ein. Bei ((Honeypot)) ist ihr Profil nur 3 Wochen sichtbar. Auch können sie sich nicht mehr ohne weiteres eigenständig bei den Firmen bewerben, denn diese fürchten nun die Vermittlungsprovision. Der Anspruch auf letztere wird von Honeypot ein Jahr lang aufrechterhalten.
 
 Derzeit gibt es mehrere Online-Personalberatungen wie ((www.4scotty.com)), ((www.get-in-it.de)) und Honeypot.com. Letztere zeichnet sich durch eine konsequente internationale Ausrichtung aus. Honeypot vermittelt hauptsächlich Fachkräfte aus dem Ausland, speziell aus der Dritten Welt. Dies war Xing im Frühjar 2019 einige Millionen wert.
 
-===== Messung der Mitarbeiterbindung
+===== Messung der Mitarbeiterbindung wie peakon.com
 
 Softwareprodukte wie ((www.peakon.com)) und ((www.heartcount.com)) möchten die Unternehmer durch Mitarbeiterbefragung befähigen, ein genaues Feedback ihrer Mitarbeiterschaft zu erhalten. Dies geschieht jedoch seitens der Mitarbeiter nicht immer freiwillig. Es ist nur ein schmaler Grat zur Überwachung. Es gibt keine Ausgewogenheit wie bei Jobikado, wo jeder Mitarbeiter freiwillig und anonym in Form des Jobikado-Weichenwertes ein Feedback leistet: mit allen Kollegen als Durchschnittswert zusammen.
+
+===== Alleinstellungsmerkmal zu Konkurrenzprodukten
+
+*Mitarbeiterbindung* - Die Fachkraft vertraut der Geschäftsführung, dass diese aufgrund der Informationen über Gehaltsangebote fremder Firmen das Gehalt kontinuierlich anpasst. Die Fluktuation der Fachkräfte wird eingedämmt. Dies ist geradezu ein "just in time controlling" der Zufriedenheit und des Vertrauens der einzelnen Fachkräfte.
+
+*Permanentes Feedback* - Die  Kennzahl eines Unternehmens, der durchschnittliche Jobikado-Weichenwert in Prozent wird im Profil des Unternehmens sichtbar ausgegeben. Die Fachkräfte können den Standardwert von 20% verändern - erhöhen oder senken. Aus den Werten aller angemeldeten Fachkräfte eines Unternehmens wird der Durchschnittswert berechnet. Aus einem sinkenden Jobikado-Weichenwert kann die Unternehmensführung ersehen, dass die Bindung der Mitarbeiter an das Unternehmen schwindet. Sie sollte Ursachenforschung betreiben und gegensteuern.
+
+Der durchschnittliche Jobikado-Weichenwert ist ehrlich, da anonym. Er ist im höchsten Maße aktuell, denn die Fachkräfte passen ihn jederzeit an. Dieser Weichenwert dient nicht nur als Feedback-Signal, sondern hat konkrete Folgen: Es gehen mehr oder weniger Jobangebote an die Adresse der Fachkraft. Dagegen sind Arbeitgeber-Bewertung auf Kununu dagegen nahezu statisch und werten die Vergangenheit aus.
+
+*Datenschutz* - Im Gegensatz zu Xing, wo jeder zahlungskräftige Interessent den sogenannten Talent Manager nutzen kann, verifiziert Jobikado Unternehmen und Personalberatungen. Nur Jobikado-Mitglieder können anonyme statistische Auswertungen über Gebiete und Branchen abfragen, nie jedoch über einzelne Mitglieder der Plattform. Jobikado sammelt keine Daten über die Aktionen der Fachkräfte.
+
+Es gibt keinen "Status" wie _An Jobangeboten interessiert_ oder ähnliches. Kein Gewissenszwang für Fachkräfte. Alle Fachkräfte fällen die selbe eine Entscheidung: den Jobikado-Weichenwert. Der indiviuelle Weichenwert einer Fachkraft bleibt immer geheim. Der durchschnittliche, das Mittel aller Fachkräfte eines Unternehmens, wird öffentlich zur Anzeige gebracht.
+
+*Antidiskriminierend* - Die Fachkraft veröffentlicht in ihrem Profil lediglich ihre Qualifikationen und Kenntnisse sowie die Dauer, wie lange sie bereits diese Kenntnisse anwendet. Nicht jedoch das Alter, Herkunft, Geschlecht und Hautfarbe. Diskriminierungen diesbezüglich werden weniger wahrscheinlich.
+
+==== Nachhaltigkeit
+
+Jobikado versteht sich als ein in hohem Maße nachhaltiges Geschäftsmodell im gesellschaftlichen Bereich, was seine ökonomischen und sozialen Zielsetzungen betrifft.
+
+* *Mitarbeiterbindung I* - ressourcensparendes und effizientes Arbeiten an gemeinsamen Zielen von Unternehmen und Fachkräften.
+* *Mitarbeiterbindung II* - durch eine hohe Mitarbeiterbindung sinkt die Fluktuationsrate. Fachkräfte nehmen Anteil am Unternehmen in gewohnter Umgebung und gewohntem sozialen Umfeld. Krankenkassenstudien haben mehrfach aufgezeigt, dass unzufriedene Mitarbeiter in Folge auch öfter krank werden.
+* *Lohnsicherung* - Jobikado ist behilflich bei der Lohnsicherung und, falls nötig, auch bei der Suche nach einer neuen Arbeitsstelle. Lohndumping wird drastisch reduziert.
 
 === Kundennutzen
 
@@ -189,7 +209,7 @@ Softwareprodukte wie ((www.peakon.com)) und ((www.heartcount.com)) möchten die 
 
 === Kompetenzen
 
-NOTE: Decken sich die Anforderungsprofile der wichtigsten Bereiche des Unternehmens mit den Kompe-tenzprofilen der Gründer (kaufmännische, fachliche bzw. technische Kenntnisse)?
+NOTE: Decken sich die Anforderungsprofile der wichtigsten Bereiche des Unternehmens mit den Kompetenzprofilen der Gründer (kaufmännische, fachliche bzw. technische Kenntnisse)?
 
 ==== Kaufmännisch
 
