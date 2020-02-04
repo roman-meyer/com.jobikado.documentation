@@ -14,7 +14,7 @@ Andreas Petersell, Roman Meyer
 // title-page with doctype = book
 :title-page:
 :title-logo-image: image:jobikado.png[pdfwidth=50%,align=right]
-:sectnums:
+//:sectnums:
 :toc-title: Inhalt
 :toc: macro
 // vignetten und eingezogener Absatz
@@ -197,7 +197,67 @@ Jobikado versteht sich als ein in hohem Maße nachhaltiges Geschäftsmodell im g
 * *Mitarbeiterbindung II* - durch eine hohe Mitarbeiterbindung sinkt die Fluktuationsrate. Fachkräfte nehmen Anteil am Unternehmen in gewohnter Umgebung und gewohntem sozialen Umfeld. Krankenkassenstudien haben mehrfach aufgezeigt, dass unzufriedene Mitarbeiter in Folge auch öfter krank werden.
 * *Lohnsicherung* - Jobikado ist behilflich bei der Lohnsicherung und, falls nötig, auch bei der Suche nach einer neuen Arbeitsstelle. Lohndumping wird drastisch reduziert.
 
-=== Kundennutzen
+=== Kundennutzen für das Unternehmen
+
+==== Problem: Unternehmen sucht Mitarbeiter - will keine Mitarbeiter verlieren
+
+Eine bedrohliche Situation für den Fortbestand einer Firma ist es, wenn zu viele Fachkräfte zeitgleich kündigen. Besonders bedroht sind kleinere und mittlere Firmen. Vollzieht sich der Fortgang des mobilen Teils der Belegschaft (Fachkräfte ohne Personalverantwortung) zu schnell, kann dies nicht mehr mit dem immobilen Teil der Belegschaft abgefangen werden. Dann verbleibt nicht genügend Zeit, das Wissen und die Erfahrung weiterzureichen. Die Firma ist in ihrem Fortbestand gefährdet. Aber selbst wenn noch genügend Zeit bleibt: die Einarbeitung neuer Fachkräfte ist zeitraubend und kostspielig.
+
+==== Problem: Mitarbeiterbindung intransparent - Unternehmen will Mitarbeiterbindung auf hohem Niveau
+
+Für das Unternehmen gibt es derzeit keine wirkungsvolle, unverfälschte Methode, die Zufriedenheit seiner Mitarbeiter transparent zu machen. Erst wenn dem Unternehmen der Grad der Mitarbeiterzufriedenheit bekannt ist, kann es ggf. gegensteuern.
+
+==== Problem: Unternehmen will Innovationskraft steigern - Unternehmen will Innovationskraft nicht verlieren
+
+Was passiert, wenn eine Fachkraft geht? Es kommt ein neuer Mitarbeiter hinzu. Dieser ist Monate damit beschäftigt, sich einzuarbeiten. Zumindest in der Probezeit wird sich der neue Kollege nicht kritisch äußern.
+
+Wie entstehen Innovation innerhalb einer Firma? Es reicht nicht, Ideen zu äußern. Für deren Verwirklichung muss der Innovator Politik betreiben und Verbündente finden, muss Überzeugungsarbeit leisten - er muss dafür zwingend auf das in Jahren zuvor erlangte Vertrauen der Kollegen der gesamten Firma zurückgreifen. Dieses abteilungsübergreifende Vertrauen kann sich aber nie aufbauen, wenn die Mitarbeiter immer wieder die Firma verlassen.
+
+Ein Unternehmen bleibt nur innovativ, wenn es erfahrene Fachkräfte hat, die sich gegenseitig vertrauen.
+Ohne diese abteilungsübergreifenden, persönlichen Netzwerke werden neue Ideen nicht aufgenommen und transportiert. Jede gemeinsam neu entwickelte Innovation ist sinnstiftend für das ganze Unternehmen
+und erhöht die Mitarbeiterzufriedenheit exorbitant.
+
+==== Lösung: Hohe Mitarbeiterzufriedenheit und sofortiges Feedback
+
+Damit das Schreckenszenario einer hohen, zeitgleichen Fluktuation nicht eintritt, ist es für das Unternehmen besser, die Mitarbeiterzufriedenheit auf einem hohen Niveau zu halten. Der wirksamste Weg dahin ist eine kontinuierliche Anpassung des Gehalts der Fachkräfte. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft.
+
+Der Autor Steffen Heuer berichtet, dass der Jobikado-Effekt (Mitarbeiterbindung durch kontinuierliche
+Gehaltsanpassungen) in Ansätzen im Silicon-Valley bereits zur Anwendung kommt:
+
+[quote]
+____
+Behauptet der Kandidat, er habe bereits Offerten von der Konkurrenz? "Dann lassen wir uns diese
+Angebote schriftlich zeigen und denken über ein Gegenangebot nach", so der Personalchef des
+schnellwachsenden Start-ups. Netflix etwa ermutigt seine Angestellten, regelmäßig Bewerbungsgespräche
+mit anderen Unternehmen zu führen, damit sie ihren Marktwert kennen. "Wer das Gefühl hat dass ihm sein
+Arbeitgeber zu wenig zahlt, sollte das seinen Manager wissen lassen, damit der das Fluchtrisiko rechtzeitig
+einschätzen und ggf. reagieren kann", sagt eine Personalchefin.footnote:[Steffen Heuer, in: brand eins, Heft 09/2019, S. 67]
+____
+
+Die Fachkraft vertraut der Geschäftsführung, dass diese aufgrund der Informationen über Gehaltsangebote fremder Firmen das Gehalt kontinuierlich anpasst. Wenn das Unternehmen es mit einer Vermeidung einer hohen Fluktuationsrate ernst meint, ist es gut beraten, das Vertrauen seiner Fachkräfte nicht zu enttäuschen.
+
+Das Unternehmen erhält nicht erst mit dem Weggang eines Mitarbeiters ein Feedback, sondern schon Jahre davor. Mit der Anzahl der von der Jobikado-Weiche durchgereichten Gehaltsangebote fremder Firmen kann das Unternehmen den Grad der Mitarbeiterzufriedenheit ableiten. Eine weiteres Indiz ist der durchschnittliche Jobikado-Weichenwert für das Unternehmen, welcher den Durchschnitt des Weichenwerts aller Mitarbeiter abbildet. Der durchschnittliche Jobikado-Weichenwert ist ehrlich, da anonym. Er ist im höchsten Maße aktuell, denn die Fachkräfte passen ihn kontinuierlich an.
+
+=== Kundennutzen für die Fachkraft
+
+==== Problem: Wünscht sich höheres Gehalt - traut sich nicht, es einzufordern
+
+Das Gehalt ist Grundlage eines jeden Arbeitsverhältnisses. Habe ich ein zu geringes Gehalt, nützen mir auch die sogenannten Benefits wenig: der Vermieter fordert die Miete in Euro ein, und nicht in Fitness-Gutscheinen. Habe ich ein adäquates Gehalt, bin ich in der Lage, für alles weitere im Unternehmen einzutreten und zu kämpfen: für Agilität, Respekt, Wohlfühlklima uvm. Es ist wie ein Gourmet, der auf eine liebevolle Tischdekoration schwört und erkennt, dass das Essen völlig versalzen ist. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft.
+
+Für eine kontinuierliche Gehaltsanpassung wäre es das Optimum, dass jede Fachkraft ein gutes Verhältnis
+zum Vorgesetzten hat und womöglich im ständigen Kontakt zur Geschäftsführung steht. Darüber hinaus hat er oder sie ein gesundes Selbstbewußtsein, um regelmäßig ein höheres Gehalt einzufordern. Viele Mitarbeiter haben jedoch nicht den Mut, kontinuierlich beim Vorgesetzten vorzusprechen.
+
+==== Lösung: Jobikado-Weiche
+
+Wenn das Unternehmen seinen Schutzschirm effektiv nutzt, erhöht es nach einigen Gehaltsangeboten fremder Unternehmen das Gehalt des Mitarbeiters.
+
+==== Problem: Fühlt sich wohl - erhält Jobangebote fremder Unternehmen
+
+Die Fachkraft fühlt sich im Unternehmen sehr wohl, erhält jedoch kein angemessenes Gehalt. Zu allem Überfluss erhält sie unaufgefordert viele Jobangebote fremder Firmen. Dies in einem solch hohem Maße, dass es schon den Charakter von Spam annimmt.
+
+==== Lösung: Jobikado-Weiche
+
+Wenn der Mitarbeiter schon Jobangebote erhält, obwohl er sich im eigenen Unternehmen wohl fühlt, was liegt da näher, die Jobangebote ungelesen weiterzureichen, um auf diesem Wege eine stetige Anpassung seines Gehalts zu erreichen?
 
 === Zielgruppen
 
