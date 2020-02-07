@@ -1,23 +1,20 @@
 = Mitarbeiterbindung und Karriere: Businessplan
 Andreas Petersell, Roman Meyer
 :revnumber: 2.0
-:revdate: 02.02.2020
+:revdate: 07.02.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
 :pdf-theme: default
-//:pdf-themesdir: asciidoctor
 :icons: font
 :sectanchors:
 :imagesdir: images
-// article or book
 :doctype: book
-// title-page with doctype = book
 :title-page:
 :title-logo-image: image:jobikado.png[pdfwidth=50%,align=right]
 //:sectnums:
 :toc-title: Inhalt
 :toc: macro
-// vignetten und eingezogener Absatz
+// Vignetten und Icons
 :caution-caption: :fire:
 :important-caption: :exclamation:
 :note-caption: :paperclip:
@@ -138,7 +135,7 @@ Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) ein Gehal
 * Die Fachkraft erhält das Angebot nicht. Sie bekommt lediglich Kenntnis, dass eines eingegangen ist.
 * Das eigene Unternehmen B erhält vom Angebot Kenntnis. Das Unternehmen kann nun entscheiden, ob es seinem Mitarbeiter mehr Gehalt zahlt.
 
-Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden. Diese Funktionalität, wir nennen es die _Jobikado-Weiche_ ist das Herzstück von Jobikado.
+Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden. Diese Funktionalität, die _Jobikado-Weiche_, ist das Herzstück von Jobikado.
 
 Überspitzt formuliert: Die Gehaltsangebote an fremde Fachkräfte wirken wie Raketenangriffe auf diese Unternehmen, jedoch bekommt jedes Unternehmen mit Jobikado einen Schutzschirm in die Hand. Für die Wirksamkeit dieses Schutzschirms kann jedes Unternehmen selbst etwas unternehmen: Es passt kontinuierlich das Gehalt der angefragten Fachkraft an.
 
@@ -158,22 +155,24 @@ Jobikado bewegt sich innerhalb einer Vielzahl von Merkmalen, die von der Konkurr
 . Charakter des Abwerbens: Headhunter
 . Charakter des Messens der Mitarbeiterbindung: Peakon.com, heartcount.com
 
+Jobikados Schwerpunkte liegen im Bereich _Steigerung des Gehalts_ und _Mitarbeiterbindung_ gleichermaßen.
+
 .Jobikado vereint Interessen
 image::fokus-matrix.png[pdfwidth=70%,align=left]
 
 ===== Business-Netzwerk wie Xing
 
-Das ((Business-Netzwerk)) Xing ist klar auf den Wechselwillen der Fachkräfte zugeschnitten. Das nachhaltigte Wirtschaften und das einvernehmliche Arbeiten an gemeinsamen Zielen innerhalb eines Unternehmens ist nicht gewünscht. ((Xing)) ist eine AG und hat ein großes Interesse, die Daten der angemeldeten Fachkräfte mehrfach zu verkaufen. Das ((Arbeitgeberbewertungsportal Kununu)) von Xing sorgt dafür, dass sich das Wechselkarussel nicht zu schnell dreht und nicht gleich ganze Firmen kollabieren. Es soll durch ((Kununu)) der Eindruck entstehen, dass Xing sich um ihre Belange kümmert.
+Das Business-Netzwerk Xing ist klar auf den Wechselwillen der Fachkräfte zugeschnitten. Das nachhaltigte Wirtschaften und das einvernehmliche Arbeiten an gemeinsamen Zielen innerhalb eines Unternehmens ist nicht gewünscht. Xing ist eine AG und hat ein großes Interesse, die Daten der angemeldeten Fachkräfte mehrfach zu verkaufen. Das Arbeitgeberbewertungsportal Kununu von Xing sorgt dafür, dass sich das Wechselkarussel nicht zu schnell dreht und nicht gleich ganze Firmen kollabieren. Es soll durch Kununu der Eindruck entstehen, dass Xing sich um ihre Belange kümmert.
 
 ===== Online-Personalberatungen wie honeypot.com
 
 Es sind viele Personalberatungen gegründet worden, die ausschließlich per Webseite auf die Suche nach Fachkräften gehen. Diese Webseiten hinterlassen den Eindruck, die Fachkräfte-Suche umzukehren: das Unternehmen "bewirbt" sich bei der Fachkraft. Wahr ist, dass sich nicht die Personalberatung bei der Fachkraft meldet, sondern die Fachkraft gleich ihren Lebenslauf bei der ((Personalberatung)) hinterlegt. Da es den Personalberatungen um die Vermittlungsprovision geht, gehen die Fachkräfte auch Nachteile ein. Bei ((Honeypot)) ist ihr Profil nur 3 Wochen sichtbar. Auch können sie sich nicht mehr ohne weiteres eigenständig bei den Firmen bewerben, denn diese fürchten nun die Vermittlungsprovision. Der Anspruch auf letztere wird von Honeypot ein Jahr lang aufrechterhalten.
 
-Derzeit gibt es mehrere Online-Personalberatungen wie ((www.4scotty.com)), ((www.get-in-it.de)) und Honeypot.com. Letztere zeichnet sich durch eine konsequente internationale Ausrichtung aus. Honeypot vermittelt hauptsächlich Fachkräfte aus dem Ausland, speziell aus der Dritten Welt. Dies war Xing im Frühjar 2019 einige Millionen wert.
+Derzeit gibt es mehrere Online-Personalberatungen wie www.4scotty.com, www.get-in-it.de und Honeypot.com. Letztere zeichnet sich durch eine konsequente internationale Ausrichtung aus. Honeypot vermittelt hauptsächlich Fachkräfte aus dem Ausland, speziell aus der Dritten Welt. Dies war Xing im Frühjar 2019 einige Millionen wert.
 
 ===== Messung der Mitarbeiterbindung wie peakon.com
 
-Softwareprodukte wie ((www.peakon.com)) und ((www.heartcount.com)) möchten die Unternehmer durch Mitarbeiterbefragung befähigen, ein genaues Feedback ihrer Mitarbeiterschaft zu erhalten. Dies geschieht jedoch seitens der Mitarbeiter nicht immer freiwillig. Es ist nur ein schmaler Grat zur Überwachung. Es gibt keine Ausgewogenheit wie bei Jobikado, wo jeder Mitarbeiter freiwillig und anonym in Form des Jobikado-Weichenwertes ein Feedback leistet: mit allen Kollegen als Durchschnittswert zusammen.
+Softwareprodukte wie www.peakon.com und www.heartcount.com möchten die Unternehmer durch Mitarbeiterbefragung befähigen, ein genaues Feedback ihrer Mitarbeiterschaft zu erhalten. Dies geschieht jedoch seitens der Mitarbeiter nicht immer freiwillig. Es ist nur ein schmaler Grat zur Überwachung. Es gibt keine Ausgewogenheit wie bei Jobikado, wo jeder Mitarbeiter freiwillig und anonym in Form des Jobikado-Weichenwertes ein Feedback leistet: mit allen Kollegen als Durchschnittswert zusammen.
 
 ===== Alleinstellungsmerkmal zu Konkurrenzprodukten
 
@@ -199,29 +198,28 @@ Jobikado versteht sich als ein in hohem Maße nachhaltiges Geschäftsmodell im g
 
 === Kundennutzen für das Unternehmen
 
-==== Problem: Unternehmen sucht Mitarbeiter - will keine Mitarbeiter verlieren
+==== Problem 1: Unternehmen sucht Mitarbeiter - will keine Mitarbeiter verlieren
 
 Eine bedrohliche Situation für den Fortbestand einer Firma ist es, wenn zu viele Fachkräfte zeitgleich kündigen. Besonders bedroht sind kleinere und mittlere Firmen. Vollzieht sich der Fortgang des mobilen Teils der Belegschaft (Fachkräfte ohne Personalverantwortung) zu schnell, kann dies nicht mehr mit dem immobilen Teil der Belegschaft abgefangen werden. Dann verbleibt nicht genügend Zeit, das Wissen und die Erfahrung weiterzureichen. Die Firma ist in ihrem Fortbestand gefährdet. Aber selbst wenn noch genügend Zeit bleibt: die Einarbeitung neuer Fachkräfte ist zeitraubend und kostspielig.
 
-==== Problem: Mitarbeiterbindung intransparent - Unternehmen will Mitarbeiterbindung auf hohem Niveau
+==== Problem 2: Mitarbeiterbindung intransparent - Unternehmen will Mitarbeiterbindung auf hohem Niveau
 
-Für das Unternehmen gibt es derzeit keine wirkungsvolle, unverfälschte Methode, die Zufriedenheit seiner Mitarbeiter transparent zu machen. Erst wenn dem Unternehmen der Grad der Mitarbeiterzufriedenheit bekannt ist, kann es ggf. gegensteuern.
+Das Unternehmen möchte für eine hohe Mitarbeiterbindung sorgen. Doch für das Unternehmen gibt es derzeit keine wirkungsvolle, unverfälschte Methode, die Zufriedenheit seiner Mitarbeiter transparent zu machen. Erst wenn dem Unternehmen der Grad der Mitarbeiterzufriedenheit bekannt ist, kann es ggf. gegensteuern.
 
-==== Problem: Unternehmen will Innovationskraft steigern - Unternehmen will Innovationskraft nicht verlieren
+==== Problem 3: Unternehmen will Innovationskraft steigern - Unternehmen will Innovationskraft nicht verlieren
 
-Was passiert, wenn eine Fachkraft geht? Es kommt ein neuer Mitarbeiter hinzu. Dieser ist Monate damit beschäftigt, sich einzuarbeiten. Zumindest in der Probezeit wird sich der neue Kollege nicht kritisch äußern.
+Jedes Unternehmen möchte für die Zukunft gewappnet und innovativ sein. Doch was passiert, wenn eine Fachkraft geht? Es kommt ein neuer Mitarbeiter hinzu. Dieser ist Monate damit beschäftigt, sich einzuarbeiten. Zumindest in der Probezeit wird sich der neue Kollege nicht kritisch äußern.
 
 Wie entstehen Innovation innerhalb einer Firma? Es reicht nicht, Ideen zu äußern. Für deren Verwirklichung muss der Innovator Politik betreiben und Verbündente finden, muss Überzeugungsarbeit leisten - er muss dafür zwingend auf das in Jahren zuvor erlangte Vertrauen der Kollegen der gesamten Firma zurückgreifen. Dieses abteilungsübergreifende Vertrauen kann sich aber nie aufbauen, wenn die Mitarbeiter immer wieder die Firma verlassen.
 
-Ein Unternehmen bleibt nur innovativ, wenn es erfahrene Fachkräfte hat, die sich gegenseitig vertrauen.
-Ohne diese abteilungsübergreifenden, persönlichen Netzwerke werden neue Ideen nicht aufgenommen und transportiert. Jede gemeinsam neu entwickelte Innovation ist sinnstiftend für das ganze Unternehmen
+Ein Unternehmen bleibt nur innovativ, wenn es erfahrene Fachkräfte hat, die sich gegenseitig vertrauen. Ohne diese abteilungsübergreifenden, persönlichen Netzwerke werden neue Ideen nicht aufgenommen und transportiert. Jede gemeinsam neu entwickelte Innovation ist sinnstiftend für das ganze Unternehmen
 und erhöht die Mitarbeiterzufriedenheit exorbitant.
 
-==== Lösung: Hohe Mitarbeiterzufriedenheit und sofortiges Feedback
+==== Alleinige Lösung: Hohe Mitarbeiterzufriedenheit und sofortiges Feedback
 
 Damit das Schreckenszenario einer hohen, zeitgleichen Fluktuation nicht eintritt, ist es für das Unternehmen besser, die Mitarbeiterzufriedenheit auf einem hohen Niveau zu halten. Der wirksamste Weg dahin ist eine kontinuierliche Anpassung des Gehalts der Fachkräfte. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft.
 
-Der Autor Steffen Heuer berichtet, dass der Jobikado-Effekt (Mitarbeiterbindung durch kontinuierliche
+Der Autor Steffen Heuer footnote:[Steffen Heuer, in: brand eins, Heft 09/2019, S. 67] berichtet, dass der Jobikado-Effekt (Mitarbeiterbindung durch kontinuierliche
 Gehaltsanpassungen) in Ansätzen im Silicon-Valley bereits zur Anwendung kommt:
 
 [quote]
@@ -231,37 +229,111 @@ Angebote schriftlich zeigen und denken über ein Gegenangebot nach", so der Pers
 schnellwachsenden Start-ups. Netflix etwa ermutigt seine Angestellten, regelmäßig Bewerbungsgespräche
 mit anderen Unternehmen zu führen, damit sie ihren Marktwert kennen. "Wer das Gefühl hat dass ihm sein
 Arbeitgeber zu wenig zahlt, sollte das seinen Manager wissen lassen, damit der das Fluchtrisiko rechtzeitig
-einschätzen und ggf. reagieren kann", sagt eine Personalchefin.footnote:[Steffen Heuer, in: brand eins, Heft 09/2019, S. 67]
+einschätzen und ggf. reagieren kann", sagt eine Personalchefin.
 ____
 
 Die Fachkraft vertraut der Geschäftsführung, dass diese aufgrund der Informationen über Gehaltsangebote fremder Firmen das Gehalt kontinuierlich anpasst. Wenn das Unternehmen es mit einer Vermeidung einer hohen Fluktuationsrate ernst meint, ist es gut beraten, das Vertrauen seiner Fachkräfte nicht zu enttäuschen.
 
-Das Unternehmen erhält nicht erst mit dem Weggang eines Mitarbeiters ein Feedback, sondern schon Jahre davor. Mit der Anzahl der von der Jobikado-Weiche durchgereichten Gehaltsangebote fremder Firmen kann das Unternehmen den Grad der Mitarbeiterzufriedenheit ableiten. Eine weiteres Indiz ist der durchschnittliche Jobikado-Weichenwert für das Unternehmen, welcher den Durchschnitt des Weichenwerts aller Mitarbeiter abbildet. Der durchschnittliche Jobikado-Weichenwert ist ehrlich, da anonym. Er ist im höchsten Maße aktuell, denn die Fachkräfte passen ihn kontinuierlich an.
+Das Unternehmen erhält nicht erst mit dem Weggang eines Mitarbeiters ein Feedback, sondern schon Jahre davor. Mit der Anzahl der von der Jobikado-Weiche durchgereichten Gehaltsangebote fremder Firmen kann das Unternehmen den Grad der Mitarbeiterzufriedenheit ableiten.
+
+Eine weiteres Indiz ist der durchschnittliche Jobikado-Weichenwert für das Unternehmen, welcher den Durchschnitt des Weichenwerts aller Mitarbeiter abbildet. Der durchschnittliche Jobikado-Weichenwert ist ehrlich, da anonym. Er ist im höchsten Maße aktuell, denn die Fachkräfte passen ihn kontinuierlich an.
 
 === Kundennutzen für die Fachkraft
 
-==== Problem: Wünscht sich höheres Gehalt - traut sich nicht, es einzufordern
+==== Problem 1: Wünscht sich höheres Gehalt - traut sich nicht, es einzufordern
 
-Das Gehalt ist Grundlage eines jeden Arbeitsverhältnisses. Habe ich ein zu geringes Gehalt, nützen mir auch die sogenannten Benefits wenig: der Vermieter fordert die Miete in Euro ein, und nicht in Fitness-Gutscheinen. Habe ich ein adäquates Gehalt, bin ich in der Lage, für alles weitere im Unternehmen einzutreten und zu kämpfen: für Agilität, Respekt, Wohlfühlklima uvm. Es ist wie ein Gourmet, der auf eine liebevolle Tischdekoration schwört und erkennt, dass das Essen völlig versalzen ist. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft.
+Das Gehalt ist Grundlage eines jeden Arbeitsverhältnisses. Habe ich ein zu geringes Gehalt, nützen mir auch die sogenannten Benefits wenig: der Vermieter fordert die Miete in Euro ein, und nicht in Fitness-Gutscheinen. Habe ich als Fachkraft ein adäquates Gehalt, bin ich in der Lage, für alles weitere im Unternehmen einzutreten und zu kämpfen: für Agilität, Respekt, Wohlfühlklima uvm. Es ist wie ein Gourmet, der auf eine liebevolle Tischdekoration schwört und erkennt, dass das Essen völlig versalzen ist. Die Tischdekoration wird für den mißratenen Genuss nicht entschädigen können. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft.
 
-Für eine kontinuierliche Gehaltsanpassung wäre es das Optimum, dass jede Fachkraft ein gutes Verhältnis
-zum Vorgesetzten hat und womöglich im ständigen Kontakt zur Geschäftsführung steht. Darüber hinaus hat er oder sie ein gesundes Selbstbewußtsein, um regelmäßig ein höheres Gehalt einzufordern. Viele Mitarbeiter haben jedoch nicht den Mut, kontinuierlich beim Vorgesetzten vorzusprechen.
+Für eine kontinuierliche Gehaltsanpassung wäre es das Optimum, dass jede Fachkraft ein gutes Verhältnis zum Vorgesetzten hat und womöglich im ständigen Kontakt zur Geschäftsführung steht. Darüber hinaus hat er oder sie ein gesundes Selbstbewußtsein, um regelmäßig ein höheres Gehalt einzufordern. Viele Mitarbeiter haben jedoch nicht den Mut, kontinuierlich beim Vorgesetzten vorzusprechen.
 
-==== Lösung: Jobikado-Weiche
+*Lösung*: Wenn das Unternehmen seinen Schutzschirm effektiv nutzt, erhöht es nach einigen Gehaltsangeboten fremder Unternehmen das Gehalt des Mitarbeiters.
 
-Wenn das Unternehmen seinen Schutzschirm effektiv nutzt, erhöht es nach einigen Gehaltsangeboten fremder Unternehmen das Gehalt des Mitarbeiters.
-
-==== Problem: Fühlt sich wohl - erhält Jobangebote fremder Unternehmen
+==== Problem 2: Fühlt sich wohl - erhält Jobangebote fremder Unternehmen
 
 Die Fachkraft fühlt sich im Unternehmen sehr wohl, erhält jedoch kein angemessenes Gehalt. Zu allem Überfluss erhält sie unaufgefordert viele Jobangebote fremder Firmen. Dies in einem solch hohem Maße, dass es schon den Charakter von Spam annimmt.
 
-==== Lösung: Jobikado-Weiche
+*Lösung*: Wenn der Mitarbeiter schon Jobangebote erhält, obwohl er sich im eigenen Unternehmen wohl fühlt, was liegt da näher, die Jobangebote ungelesen weiterzureichen, um auf diesem Wege eine stetige Anpassung seines Gehalts zu erreichen?
 
-Wenn der Mitarbeiter schon Jobangebote erhält, obwohl er sich im eigenen Unternehmen wohl fühlt, was liegt da näher, die Jobangebote ungelesen weiterzureichen, um auf diesem Wege eine stetige Anpassung seines Gehalts zu erreichen?
+==== Problem 3: Fühlt sich nicht mehr wohl - erhält Jobangebote fremder Unternehmen
+
+Dem Unternehmen gelingt es nicht, die Mitarbeiterbindung aufrecht zu halten.
+
+*Lösung*: Die Fachkraft kann, wenn sie ein überdurchschnittlich hohes Gehaltsangebot erhält, darüber nachdenken, ob sie in direkten Kontakt zum Angebotssteller tritt. Die Gefahr, dass sie einen Urlaubstag umsonst verwendet, um das Vorstellungsgespräch wahrnehmen zu können, ist deutlich geringer als ohne Jobikado: über die wichtigste Frage, nämlich über das Gehalt, bestehen schon ähnliche Vorstellungen.
+
+Die Fachkraft wird ebenso von Jobangeboten geschützt, die mit einer Ungewißheit und Unsicherheit behaftet sind, und ihm dabei nur maximal das gleiche Gehalt bieten.
+
+==== Problem 4: Auf Jobsuche - Gefahr der Diskriminierung
+
+Die Fachkraft ist zum Jobwechsel entschlossen, muss aber aufgrund ihres Alters Nachteile befüchten.
+
+*Lösung*: Die Fachkraft veröffentlicht in ihrem Profil lediglich ihre Qualifikationen und Kenntnisse sowie die Dauer, wie lange sie bereits diese Kenntnisse anwendet. Nicht jedoch das Alter, Herkunft, Geschlecht und Hautfarbe. Diskriminierungen diesbezüglich werden weniger wahrscheinlich.
+
+=== Besonderer Nutzen für die Kunden
+
+* Unternehmen bekommt sofortige, stets aktuelle Rückmeldung der Mitarbeiterbindung
+* Unternehmen wappnet sich gegen eine hohe Fluktuation
+* Unternehmen kann Fachkräfte suchen
+* Fachkraft kann für Gehaltsanpassung aktiv werden
+* Fachkraft kann diskriminierungsfrei neue Arbeitsstelle suchen
+* Fachkraft und Unternehmen können verifizierte Auswertungen abrufen
+* Fachkraft ist sicher, dass Daten nicht verkauft werden
+* Fachkraft ist sicher, dass das eigene Unternehmen nicht Zugriff auf die Daten erhält
+* Unternehmen und Fachkraft pflegen ein ausgewogenes Verhältnis
 
 === Zielgruppen
 
+Jobikado richtet sich *im Unternehmen* an die *Geschäftsleitung* und die *festangestellten Fachkräfte* ohne Personalverantwortung. Diese beiden Zielgruppen melden sich auf Jobikado an. Der Mitarbeiter hinterlegt im Wesentlichen das aktuelle Gehalt und seine fachlichen Qualifikationen.
+
+Insbesondere kleinere und mittlere Unternehmen (KMUs) können einen Mehrwert aus Jobikado ziehen, denn diese sind relativ flexibel in ihrer Ausgestaltung des Gehaltsgefüges. In größeren Firmen mit einem festen Tarifgefüge greift zumindest der Schutzschirm für Unternehmen nicht optimal.
+
+*Personalberatungen* und *Headhunter* können Jobikado nur bedingt für Gehaltsangebote nutzen, denn Jobikado ist ein Portal der Mitarbeiterbindung. Sie sehen die Profile der Fachkräfte einer Firma nur solange, wie die Geschäftsleitung der Fachkräfte nicht auf Jobikado angemeldet sind. Sobald die Unternehmen mit ihren Personalabteilungen auf Jobikado angemeldet sind, sind die Mitarbeiterprofile dieses Unternehmens für Personalberatungen unsichtbar.
+
+Jobikado versteht sich als ein in hohem Maße *nachhaltiges Geschäftsmodell* im gesellschaftlichen Bereich, was seine ökonomischen und sozialen Zielsetzungen betrifft. Es hat die Mitarbeiterbindung als oberstes Ziel. Das heißt, dass Jobikado das ressourcensparende und effiziente Arbeiten an gemeinsamen Zielen von Unternehmen und Fachkräften fördert.
+
+Sowohl in der Unternehmensführung als auch unter festangestellten Fachkräften sind die Verfechter der LOHAS-Lebensweise (dt. etwa _Lebensstil auf der Basis von Gesundheit und Nachhaltigkeit_) stark vertreten. Ob dieser Begriff als begehrenswerte Zielgruppe dauerhaften Bestand haben wird, ist abzuwarten. Jedoch glauben die beiden Gründer, dass
+
+* Werte wie _Authentizität_, _Ehrlichkeit_, _Harmonie_ und _Autonomie_,
+* Ziele wie _Gerechtigkeit_, _faire Gesellschaft_ und _Selbstverwirklung_ und
+* Eigenschaften wie _hinterfragend_, _sozial_ und _kritisch_
+
+in der Zielgruppe der gebildeten Akteure im Unternehmen vorherrschend sind. Zahlungsbereitschaft und Statusbewußtsein für ein Portal bzw. eine Community sind start ausgesprägt.
+
+Jobikado richtet sich *NICHT* explizit an:
+
+* Unternehmen wie Zeitarbeitsfirmen und Freiberufler und
+* Fachkräfte mit Personalverantwortung und strategische Führungskräfte.
+
+Letztere Fachkräfte gehören zum immobilen Teil der Belegschaft und bedürfen folglich keiner Mitarbeiterbindung. Die Suche nach ihnen erfolgt über Headhunter.
+
 === Entwicklungsstand
+
+Zum aktuellen Zeitpunkt steht noch kein vorführfähiger Prototyp zur Verfügung. Aktuell wird an den Anwendungsfällen mittels UML gearbeitet. Anschließend wird eine Entwicklung gegen ein cloudbasiertes Baukasten (SaaS) zum Austesten der Usecases vorangetrieben. Als Minimum Viable Product (MVP) wird clientseitig ein Webbrowser zum Einsatz kommen. Im Zuge eines ständigen Anpassungsprozesses durch regelmäßiges Userfeedback werden später mobile Testclients (Apps) folgen. Die App-Programmierung startet nach einem optimalen Product-Market Fit.
+
+Für die erste Umsetzung wird eine SaaS-Variante in Betracht gezogen, die mit einem Baukasten einen schnellen Aufbau der Grundfunktionalitäten einer Dienstleistung wie Jobikado gewährleistet. Die Anforderungsanalyse zu einem Enterprisesystem muss nach den Ergebnissen der Testphase und dem eingeholten Feedback erneut erfolgen. Als Client dient die Standardbrowser auf PC/ Mac/ Linus und mobilen Android-/ iOS - Geräten. Ein responsives Design wird durch die bereitgestellte Web-Technologie auf der Cloudplattform gewährleistet. Die Umsetzung eines eigenen Design-Guides kann durch Eigenentwicklung weiter verfeinert werden.
+
+Mittels eines Wireframing-Tools (Adobe XD) werden prototypisch Screens klickbar dargestellt, die das Handling für die Jobikadoanwendung visualieren und für die Stakeholder erfahrbar machen. Der ständige Rückfluss von Marktanalysen und Kundenmeinungen kann hier schnelle Anpassung an das zugrunde liegende Konzept verfeinern.
+
+==== Entwicklungsstand der Wettbewerber
+
+Jobikado hat im Bereich der Mitarbeiterbindung keine Mitbewerber. Da es aber ebenso ein Portal für Karriere ist, gibt es Überschneidungen zu Vermittlungsportalen im Personalberatungsbereich wie www.4scotty.de, www.get-in-it.de und honeypot.com.
+
+Die beiden ersten, 4scotty.de und get-in-it.de, haben eine funktionierende Infrastruktur. Unseres Erachtens ist die Zukunft der beiden Portale, die von der Vermittlungsprovision leben, jedoch ungewiß. Der Pool an angemeldeten Fachkräften bei Xing und LinkedIn ist einfach größer und zumeist haben die Fachkräfte parallel auch dort bereits ein Profil hinterlegt.
+
+Honeypot hat durch seine internationale Ausrichtung eine klare Zukunftsperspektive. Der Strom von ausländischen Fachkräften, die in Deutschland arbeiten möchten, wird nie versiegen.
+
+=== Schutz der Innovation
+
+Jobikado wendet sich an zwei Zielgruppen: an die Geschäftsführung und die Fachkräfte ohne Personalverantwortung. Letztere gehören für uns klar zum mobilen Teil der Belegschaft. Im Gegensatz zu Managern und anderen Führungskräften, die eng an ein Unternehmen gebunden sind und wir demzufolge zum immobilen Teil des Unternehmens zählen. Wenn es also gilt, für mehr Mitarbeiterbindung zu sorgen, dann ganz klar bei den Fachkräften ohne Personalverantwortung. Jobikado richtet sich damit zwar an einen kleineren Kreis von Personen, jedoch an genau den selben großen Kreis an Unternehmen wie Xing. Das Geld wird, ähnlich wie bei Xing, zum großen Teil über die Unternehmen verdient.
+
+Schützen läßt sich diese Innovation nur durch konsequente Nachhaltigkeit: Datenschutz, Dateneigentümerschaft und Mitverdienst der Fachkräfte. In Zeiten des Fachkräftemangels müssen Unternehmensleitungen und Fachkräfte spüren, dass es sich lohnt, für ein starkes Unternehmen an einem Strang zu ziehen.
+
+Jobikado steht für:
+
+* eine langfristige Zusammenarbeit zwischen Fachkraft und Unternehmen,
+* eine profundere zwischenmenschliche Beziehung zwischen den Mitarbeitern selbst und zwischen Mitarbeiterschaft und Unternehmensleitung,
+* psychologische Wohlbefinden aller Beteiligten im Unternehmen, ja, selbst die des Kunden, der nicht unter ständigen Kundenbetreuerwechsel leiden muss.
+
+Dieses Modell ist für die Mitbewerber nur schwer adaptierbar. Wir sehen also eher Chancen als Risiken, wenn wir nachhaltige Aspekte berücksichtigen.
 
 == Gründerteam
 
@@ -345,39 +417,9 @@ NOTE: Haben Sie Überlegungen zum kalkulatorischen Unternehmerlohn angestellt?
 
 === Gewinn- und Verlustplanung
 
-
-The technical writer edits help files using https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture[DITA-XML] and VOIS uses the http://www.xmlmind.com/ditac/[DITA-Compiler (DITAC)] to build the help on the fly right after klicking on the help button.
-
-Using DITA means:
-
-. topic oriented writing (you)
-. single source publishing (VOIS for webhelp)
-. reuse (you can)
-. indirect linking (you can)
-. ((conditional processing)) (you can)
-
 indexterm2:[Lancelot] was one of the Knights of the Round Table. 
 indexterm:[knight, Knight of the Round Table, Lancelot]
 indexterm:[indirect linking] 
-
-----
-<task id="kfz-ausser-betrieb-setzen_task" xml:lang="de-de">
-----
-
-As ID please use always the file name without file extension.
-
-* Edit the Indexterms
-* Edit the Shortdesc - it is the first paragraph the user will see
-* Edit all other Metadata
-
-.Scheme of a task
-image::jobikado.png[]
-
-The _hid_ of a process (Vorgang) you get this way:
-
-. Press F12 in the ((VOIS-Client))
-. Switch to the tab _Konsole_
-. At the command prompt, enter the following command
 
 [index]
 == Index
