@@ -1,7 +1,7 @@
 = Mitarbeiterbindung und Karriere: Businessplan
 Andreas Petersell, Roman Meyer
 :revnumber: 2.0
-:revdate: 07.02.2020
+:revdate: 10.02.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
 :pdf-theme: default
@@ -333,25 +333,40 @@ Jobikado steht für:
 * eine profundere zwischenmenschliche Beziehung zwischen den Mitarbeitern selbst und zwischen Mitarbeiterschaft und Unternehmensleitung,
 * psychologische Wohlbefinden aller Beteiligten im Unternehmen, ja, selbst die des Kunden, der nicht unter ständigen Kundenbetreuerwechsel leiden muss.
 
-Dieses Modell ist für die Mitbewerber nur schwer adaptierbar. Wir sehen also eher Chancen als Risiken, wenn wir nachhaltige Aspekte berücksichtigen.
+Dieses Modell ist für die Mitbewerber nur schwer adaptierbar. Wir sehen eher Chancen als Risiken, wenn wir nachhaltige Aspekte berücksichtigen.
+
+Jobikado wird die ständige Weiterentwicklung des Portals mit der Community vorantreiben. 
 
 == Gründerteam
 
-(min 2 bis max 5 Seiten)
+Die beiden Unternehmensgründer Andreas Petersell und Roman Meyer arbeiten seit vielen Jahren in einer Softwarefirma, deren innere Abläufe sie detailliert über mehrere Abteilungen mit ihren verschiedensten Tätigkeiten studieren konnten: eine außerordentlich erfolgreiche Firma, die jedoch mehrmals vor einer personalbedingten Implosion stand.
 
-=== Kompetenzen
+Beide sind es gewohnt, im Team beharrlich und zielorientiert auf die Auslieferung eines Stücks Software hinzuarbeiten. Beiden setzen sich in ihrer Firma für mehr Teamarbeit ein: www.operation-teamwork.de. Seit September 2019 entwickeln die beiden Gründer das Konzept für Jobikado - dem Portal zur Mitarbeiterbindung und Karriere.
 
-NOTE: Decken sich die Anforderungsprofile der wichtigsten Bereiche des Unternehmens mit den Kompetenzprofilen der Gründer (kaufmännische, fachliche bzw. technische Kenntnisse)?
+=== Andreas Petersell (Chief Executive Officer)
 
-==== Kaufmännisch
+Andreas Petersell (53) ist der kreative Schöpfer der Geschäftsidee. Als Innovationmanager erkannte er, dass mit Zunahme von neuen Kollegen die Innovationskraft der Firma stark schwand. Ja, dass sogar der Fortbestand der Firma durch den massiven, zeitgleichen Fortgang von Fachkräften gefährdet war. Als er sich selbst auf Stellenangebote anderer Firmen bewarb, merkte er, wieviel Zeit, Kraft und Selbstzweifel er für einen ungewissen Ausgang investierte. Er entdeckte nicht nur seine immer noch große Bindung an die Firma, sondern auch die Jobikado-Weiche.
 
-==== Fachlich
+Andreas Petersell hat an der Humboldt-Universität Germanistik und Anglistik auf Lehramt studiert. Er arbeitete mehrere Jahre als Technischer Redakteur und Dozent. Erklärungsbedürftige Zusammenhänge zu kommunizieren und erfahrbar zu machen, ist seine große Leidenschaft. Als Innovationmanager lernte er, überall die Möglichkeiten zu entdecken, in dem er Erfolgreiches aus einer Branche mit Anpassungen in andere Branchen adaptierte oder Ideen aus verschiedenen Zusammenhängen miteinander verknüpfte. Er bedient als Technischer Redakteur im Single-Source Publishing und als Informationsarchitekt eine Schnittstelle zwischen Technologie, Strukturierung und sprachlichem Ausdruck.
 
-==== Technisch
+=== Roman Meyer (Chief Technical Officer)
+
+Roman Meyer (41) ist Senior Developer und Kenner des Entwickler-Universums. Umfassende Erkenntnisse, basierend auf mehrjähriger Erfahrung im Programmierumfeld, navigieren ihn sicher und konsequent durch die Höhen und Tiefen der Softwareentwicklung. Derzeit treibt er, gemeinsam mit seinen Kollegen, als Programmierer im Full-Stack-Bereich einer Softwarefirma die Weiterentwicklung einer zentralen Behördensoftware voran. Seine spezielle Fähigkeit: Schwachstellen einer Software frühzeitig erkennen und entsprechende Lösungen anbieten. Darüber hinaus hilft seine kaufmännische Ausbildung in der öffentlichen Verwaltung, die Sicht des Anwenders nicht aus dem Blick zu verlieren.
+
+Unnötige und übertriebene Bürokratie sowie kurzfristiges Denken und Handeln seitens des Managements zeigen ihm jedoch tagtäglich die Kehrseiten der Codeproduktion. Frustration, gepaart mit regelmäßigen Wechselgedanken bei ihm und seinen Kollegen sind die Folge. Für Roman Anlass genug, sich der Entwicklung eines Mitarbeiterportals wie Jobikado zu widmen und bei dessen Entstehung an die bisherigen positiven und negativen Erfahrungen anzuknüpfen.
 
 === Schließen von Lücken
 
+Aus den obigen Kompetenzen der beiden Gründer ergeben sich Lücken in einigen wichtigen Bereichen der Unternehmensführung. Es ist der Besuch von IHK-Kursen zu Themen wie Geschäftsführung (GF) und Finanzcontrolling geplant.
+
+Die Beauftragung eines Steuerberater und eines externen Personalbüros werden Lücken abmindern. 
+
 === Schlüsselpersonen und Mentoren
+
+* *Florian Eulenstädt* - Recruitment Officer in einer Softwarefirma
+* *Dave Boddin* - Human Ressources Officer, zusätzlich Consultant für Förderanträge u.ä.
+* *Dirk Lukas* - MBA
+
 
 === Ausstiegsszenario
 
@@ -382,6 +397,12 @@ NOTE: Haben Sie Überlegungen zum kalkulatorischen Unternehmerlohn angestellt?
 
 
 === Marktsegmentierung und Marktpotenzial
+
+==== Einnahmequellen
+
+* Mitgliedschaft für Unternehmen zur Mitarbeiterbindung (Schutzschirm der Jobikado-Weiche)
+* Gehaltsangebot tätigen - Kosten pro Angebot (Unternehmen und Personalberatungen)
+* Gebühr pro Statistikabfrage für Nichtmitglieder
 
 === Wettbewerbsumfeld
 
