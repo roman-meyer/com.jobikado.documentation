@@ -30,28 +30,28 @@ toc::[]
 
 Der Name Jobikado leitet sich von einer großen Gefahr ab: kündigen zu viele Fachkräfte zur gleichen Zeit, ist es nicht mehr möglich, jahrelang erworbene Erfahrung weiterzugeben. Das Unternehmen implodiert, ähnlich wie beim Mikado. Entzieht man dem Wirrwar zugleich zu viele Stäbchen, fällt alles in sich zusammen.
 
-*Sie sind Geschäftsführer oder Personalverantwortlicher eines Unternehmens?*
+*Sie sind Geschäftsführer?*
 
-TIP: Stellen Sie sich vor, Ihre Fluktuationsrate innerhalb Ihrer Mitarbeiter geht gegen Null? Nun, dafür müssen Sie selbst sorgen. Jobikado ist Ihnen aber dabei eine große Hilfe.
+TIP: Stellen Sie sich vor, Ihre Fluktuationsrate innerhalb Ihrer Mitarbeiter geht gegen Null? Letzlich sind Sie selbst dafür verantwortlich. Jobikado ist Ihnen aber dabei eine große Hilfe.
 
-*Sie sind eine gelernte oder studierte Fachkraft ohne Personalverantwortung?*
+*Sie sind im Unternehmen eine Fachkraft?*
 
-TIP: Stellen Sie sich vor, Ihre Geschäftsführung passt regelmäßig Ihr Gehalt an? Dabei hilft Jobikado. Sieht Ihr Chef Ihre Entlohnung immer noch mit anderen Augen, helfen wir Ihnen, einen neuen Job zu finden.
+TIP: Stellen Sie sich vor, Ihre Geschäftsführung passt regelmäßig Ihr Gehalt an? Dabei hilft Jobikado. Wenn sie es dennoch nicht tut, helfen wir Ihnen, einen neuen Job zu finden.
 
-Unternehmen suchen ständig nach neuen Fachkräften. Dies können sie über Jobikado tun. Aber Jobikado gibt auch allen Unternehmen die Möglichkeit, die eigenen Mitarbeiter ans Unternehmen zu binden und die Angebote anderer Firmen abzuwehren. Diesen vermeintlichen Gegensatz vereint Jobikado.
+Unternehmen suchen ständig nach neuen Fachkräften. Dies können sie über Jobikado tun. Aber Jobikado gibt auch allen Unternehmen die Möglichkeit, die eigenen Mitarbeiter ans Unternehmen zu binden und wie ein Schutzschirm die Angebote anderer Firmen abzuwehren. Diesen vermeintlichen Gegensatz vereint Jobikado.
 
 === Zwei Zielgruppen
 
 Jobikado richtet sich im Unternehmen
 
-* an die *Geschäftsleitung* und
+* an die *Geschäftsführung* und
 * die *festangestellten Fachkräfte* ohne Personalverantwortung.
 
 Diese beiden Zielgruppen melden sich auf Jobikado an. Der Mitarbeiter hinterlegt im Wesentlichen das aktuelle Gehalt und seine fachlichen Qualifikationen.
 
 === Anonyme Gehaltsangebote mit Jobikado-Weiche
 
-Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) ein Gehaltsangebot. Dabei sieht es jedoch nicht das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
+Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) eine Jobofferte mit Gehaltsangebot. Dabei sieht es jedoch nicht das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
 
 *Gehaltsangebot liegt über einer 20%igen Erhöhung des aktuellen Gehalts*
 
@@ -123,7 +123,7 @@ Diese beiden Zielgruppen melden sich auf Jobikado an. Der Mitarbeiter hinterlegt
 
 ==== Anonyme Gehaltsangebote mit Weiche
 
-Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) ein Gehaltsangebot. Dabei sieht es jedoch nicht das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
+Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) eine Jobofferte mit Gehaltsangebot. Dabei sieht es jedoch nicht das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
 
 *Gehaltsangebot liegt über einer 20%igen Erhöhung des aktuellen Gehalts*
 
@@ -260,7 +260,7 @@ Dem Unternehmen gelingt es nicht, die Mitarbeiterbindung aufrecht zu halten.
 
 *Lösung*: Die Fachkraft kann, wenn sie ein überdurchschnittlich hohes Gehaltsangebot erhält, darüber nachdenken, ob sie in direkten Kontakt zum Angebotssteller tritt. Die Gefahr, dass sie einen Urlaubstag umsonst verwendet, um das Vorstellungsgespräch wahrnehmen zu können, ist deutlich geringer als ohne Jobikado: über die wichtigste Frage, nämlich über das Gehalt, bestehen schon ähnliche Vorstellungen.
 
-Die Fachkraft wird ebenso von Jobangeboten geschützt, die mit einer Ungewißheit und Unsicherheit behaftet sind, und ihm dabei nur maximal das gleiche Gehalt bieten.
+Die Fachkraft wird ebenso von Jobangeboten geschützt, die mit einer Ungewißheit und Unsicherheit behaftet sind, und ihm dabei nur maximal das gleiche Gehalt bieten. Mit anderen Worten: die Fachkraft spart Zeit und Geld und erspart sich viel Streß.
 
 ==== Problem 4: Auf Jobsuche - Gefahr der Diskriminierung
 
@@ -382,6 +382,23 @@ NOTE: Haben Sie Überlegungen zum kalkulatorischen Unternehmerlohn angestellt?
 
 === Beschreibung des Gesamtmarktes
 
+Jobikado bewegt sich im großen Gesamtmarkt der 2,5 Mio deutschen Unternehmen. Doch zahlende Kunden sind für Jobikado nur jene Unternehmen, in denen abhängig beschäftigte Wissenarbeiter, also gelernte bzw. studierte Fachkräfte angestellt sind. Im Jahre 2017 gab es allein in der Wirtschaftsgliederung _Information und Kommunikation_ des Statistischen Bundesamtes 132.769 Unternehmen.footnote:[https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-prod-gewerbe-dienstleistungen.pdf]
+
+Von denen wiederum einzig der *mobile Teil* der Wissensarbeiter die Zielgruppe von Jobikado bilden, denn Jobikado unterscheidet zwei Gruppen innerhalb der Belegschaft eines Unternehmens: dem mobilen und immobilien Teil. Und genau über diese unsichtbare Grenze gibt es keine verifizierten Daten. Selbst über den Begriff gibt es keine Einigkeit. Die Grenze taucht immer auf, wenn es heißt: _"Kannst ja gehen, wenn es dir hier nicht gefällt!"_.
+
+Die beide Gründer möchten nicht ergründen, warum die Grenze existiert, was sie befördert u.ä.. Sie haben diese unsichtbare Grenze jedoch über 10 Jahre schmerzhaft erfahren: mit jedem Weggang eines geschätzten Kollegen.
+
+=== Marktsegmentierung und Marktpotenzial
+
+Jobikado konzentriert sich auf einen Teilmarkt der Wissenarbeiter als Einstiegsmarkt, nämlich auf die der IT-Jobs. Schon 2016 ging man nach einer Umfrage auf Stack Overflow und einer Bitkom-Schätzung von einer ungefähren Anzahl von 800.000 Software-Entwicklern aus.footnote:developer[https://www.heise.de/developer/meldung/Stack-Overflow-Ueber-700-000-Softwareentwickler-in-Deutschland-3328648.html] Da sind also noch nicht die IT-Techniker wie Netzwerkadmins etc. inkludiert. Der Mangel an IT-Experten beläuft sich laut Bitkomverband im Jahr 2019 auf 124.000 unbesetzten IT-Stellen.footnote:[Mangel an IT-Experten wird immer größer, https://de.statista.com/infografik/16584/zu-besetzende-it-stellen-in-der-deutschen-gesamtwirtschaft/]
+
+image::statista-bitkom-fachkraeftemangel.jpeg[]
+
+Jobikado wird auch den Charakter einer Weiterempfehlungs-Community tragen. Darum konzentrieren wir uns auf einen ersten der sechs Software-Entwicklermetropolen Deutschlands: *Berlin*, mit etwa 82.000 Entwicklern.footnote:developer[] In Berlin gibt es in der Wirtschaftsgliederung _Information und Kommunikation_ 12.031 Unternehmen. Doch allein sich auf diese Wirtschaftsgliederung zu beschränken, ist irreführend: die produzierte Software wird in vielen Wirtschaftsgliederungen wie Gesundheitswesen, Verkehr, Energie und Wohnungswesen eingesetzt. Also sitzen auch in diesen Unternehmen Fachkräfte, die diese Software einsetzen und supporten.
+
+Zusätzlich zum Gesetzgeber bekommt die Softwarebranche inklusive ihrer SaaS-Anbieter eine höhere Sensibilisierung der Kundschaft in Sachen Datenschutz zu spüren. Datensammelei jeglicher Art wird stärker hinterfragt. Der Datenschutz birgt ein riesiges Marktpotenzial. 
+
+
 ====
 * In welchem Gesamtmarkt/welcher Branche bewegt sich Ihr Unternehmen?
 * Wie hat sich die Branche in der Vergangenheit entwickelt und wie sieht die derzeitige Situation aus?
@@ -395,8 +412,6 @@ NOTE: Haben Sie Überlegungen zum kalkulatorischen Unternehmerlohn angestellt?
 * Welche Chancen und Risiken ergeben sich?
 ====
 
-
-=== Marktsegmentierung und Marktpotenzial
 
 ==== Einnahmequellen
 
