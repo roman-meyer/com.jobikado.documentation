@@ -1,7 +1,7 @@
 = Mitarbeiterbindung und Karriere: Businessplan
 Andreas Petersell, Roman Meyer
 :revnumber: 2.0
-:revdate: 10.02.2020
+:revdate: 12.02.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
 :pdf-theme: default
@@ -110,7 +110,7 @@ Jobikado erweitert als erstes Geschäftsmodell den Fokus weg von der zentrierten
 
 
 .Das Jobikado-Gummiband nach Dave Boddin
-image::rubberbandmodel-jobikado.png[pdfwidth=70%,align=left]
+image::rubberbandmodel-jobikado.png[pdfwidth=90%,align=left]
 
 === Funktionen
 
@@ -166,7 +166,7 @@ Das Business-Netzwerk Xing ist klar auf den Wechselwillen der Fachkräfte zugesc
 
 ===== Online-Personalberatungen wie honeypot.com
 
-Es sind viele Personalberatungen gegründet worden, die ausschließlich per Webseite auf die Suche nach Fachkräften gehen. Diese Webseiten hinterlassen den Eindruck, die Fachkräfte-Suche umzukehren: das Unternehmen "bewirbt" sich bei der Fachkraft. Wahr ist, dass sich nicht die Personalberatung bei der Fachkraft meldet, sondern die Fachkraft gleich ihren Lebenslauf bei der ((Personalberatung)) hinterlegt. Da es den Personalberatungen um die Vermittlungsprovision geht, gehen die Fachkräfte auch Nachteile ein. Bei ((Honeypot)) ist ihr Profil nur 3 Wochen sichtbar. Auch können sie sich nicht mehr ohne weiteres eigenständig bei den Firmen bewerben, denn diese fürchten nun die Vermittlungsprovision. Der Anspruch auf letztere wird von Honeypot ein Jahr lang aufrechterhalten.
+Es sind viele Personalberatungen gegründet worden, die ausschließlich per Webseite auf die Suche nach Fachkräften gehen. Diese Webseiten hinterlassen den Eindruck, die Fachkräfte-Suche umzukehren: das Unternehmen "bewirbt" sich bei der Fachkraft. Wahr ist, dass sich nicht die Personalberatung bei der Fachkraft meldet, sondern die Fachkraft gleich ihren Lebenslauf bei der Personalberatung hinterlegt. Da es den Personalberatungen um die Vermittlungsprovision geht, gehen die Fachkräfte auch Nachteile ein. Bei Honeypot ist ihr Profil nur 3 Wochen sichtbar. Auch können sie sich nicht mehr ohne weiteres eigenständig bei den Firmen bewerben, denn diese fürchten nun die Vermittlungsprovision. Der Anspruch auf letztere wird von Honeypot ein Jahr lang aufrechterhalten.
 
 Derzeit gibt es mehrere Online-Personalberatungen wie www.4scotty.com, www.get-in-it.de und Honeypot.com. Letztere zeichnet sich durch eine konsequente internationale Ausrichtung aus. Honeypot vermittelt hauptsächlich Fachkräfte aus dem Ausland, speziell aus der Dritten Welt. Dies war Xing im Frühjar 2019 einige Millionen wert.
 
@@ -274,10 +274,10 @@ Die Fachkraft ist zum Jobwechsel entschlossen, muss aber aufgrund ihres Alters N
 * Unternehmen wappnet sich gegen eine hohe Fluktuation
 * Unternehmen kann Fachkräfte suchen
 * Fachkraft kann für Gehaltsanpassung aktiv werden
-* Fachkraft kann diskriminierungsfrei neue Arbeitsstelle suchen
 * Fachkraft und Unternehmen können verifizierte Auswertungen abrufen
 * Fachkraft ist sicher, dass Daten nicht verkauft werden
 * Fachkraft ist sicher, dass das eigene Unternehmen nicht Zugriff auf die Daten erhält
+* Fachkraft erspart sich Zeit und Streß in unnötigen Vorstellungsgesprächen
 * Unternehmen und Fachkraft pflegen ein ausgewogenes Verhältnis
 
 === Zielgruppen
@@ -335,7 +335,7 @@ Jobikado steht für:
 
 Dieses Modell ist für die Mitbewerber nur schwer adaptierbar. Wir sehen eher Chancen als Risiken, wenn wir nachhaltige Aspekte berücksichtigen.
 
-Jobikado wird die ständige Weiterentwicklung des Portals mit der Community vorantreiben. 
+Jobikado wird die ständige Weiterentwicklung des Portals mit der Community vorantreiben.
 
 == Gründerteam
 
@@ -367,7 +367,6 @@ Die Beauftragung eines Steuerberater und eines externen Personalbüros werden L�
 * *Dave Boddin* - Human Ressources Officer, zusätzlich Consultant für Förderanträge u.ä.
 * *Dirk Lukas* - MBA
 
-
 === Ausstiegsszenario
 
 NOTE: Gibt es ein Ausstiegsszenario, wenn ein Mitglied/Mitglieder das Team verlassen muss/müssen o-der will/werden?
@@ -378,11 +377,9 @@ NOTE: Haben Sie Überlegungen zum kalkulatorischen Unternehmerlohn angestellt?
 
 == Marktanalyse
 
-(min 2bis max 5 Seiten)
-
 === Beschreibung des Gesamtmarktes
 
-Jobikado bewegt sich im großen Gesamtmarkt der 2,5 Mio deutschen Unternehmen. Doch zahlende Kunden sind für Jobikado nur jene Unternehmen, in denen abhängig beschäftigte Wissenarbeiter, also gelernte bzw. studierte Fachkräfte angestellt sind. Im Jahre 2017 gab es allein in der Wirtschaftsgliederung _Information und Kommunikation_ des Statistischen Bundesamtes 132.769 Unternehmen.footnote:[https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-prod-gewerbe-dienstleistungen.pdf]
+Jobikado bewegt sich im großen Gesamtmarkt der 2,5 Mio deutschen Unternehmen. Doch zahlende Kunden sind für Jobikado nur jene Unternehmen, in denen abhängig beschäftigte Wissenarbeiter, also gelernte bzw. studierte Fachkräfte angestellt sind. Im Jahre 2017 gab es allein in der Wirtschaftsgliederung _Information und Kommunikation_ des Statistischen Bundesamtes 132.769 Unternehmen.footnote:[Statistisches Jahrbuch 2019 - Kapitel 20 Produzierendes Gewerbe und Dienstleistungen im Überblick, https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-prod-gewerbe-dienstleistungen.pdf]
 
 Von denen wiederum einzig der *mobile Teil* der Wissensarbeiter die Zielgruppe von Jobikado bilden, denn Jobikado unterscheidet zwei Gruppen innerhalb der Belegschaft eines Unternehmens: dem mobilen und immobilien Teil. Und genau über diese unsichtbare Grenze gibt es keine verifizierten Daten. Selbst über den Begriff gibt es keine Einigkeit. Die Grenze taucht immer auf, wenn es heißt: _"Kannst ja gehen, wenn es dir hier nicht gefällt!"_.
 
@@ -392,26 +389,11 @@ Die beide Gründer möchten nicht ergründen, warum die Grenze existiert, was si
 
 Jobikado konzentriert sich auf einen Teilmarkt der Wissenarbeiter als Einstiegsmarkt, nämlich auf die der IT-Jobs. Schon 2016 ging man nach einer Umfrage auf Stack Overflow und einer Bitkom-Schätzung von einer ungefähren Anzahl von 800.000 Software-Entwicklern aus.footnote:developer[https://www.heise.de/developer/meldung/Stack-Overflow-Ueber-700-000-Softwareentwickler-in-Deutschland-3328648.html] Da sind also noch nicht die IT-Techniker wie Netzwerkadmins etc. inkludiert. Der Mangel an IT-Experten beläuft sich laut Bitkomverband im Jahr 2019 auf 124.000 unbesetzten IT-Stellen.footnote:[Mangel an IT-Experten wird immer größer, https://de.statista.com/infografik/16584/zu-besetzende-it-stellen-in-der-deutschen-gesamtwirtschaft/]
 
-image::statista-bitkom-fachkraeftemangel.jpeg[]
+image::statista-bitkom-fachkraeftemangel.jpeg[pdfwidth=90%,align=left]
 
 Jobikado wird auch den Charakter einer Weiterempfehlungs-Community tragen. Darum konzentrieren wir uns auf einen ersten der sechs Software-Entwicklermetropolen Deutschlands: *Berlin*, mit etwa 82.000 Entwicklern.footnote:developer[] In Berlin gibt es in der Wirtschaftsgliederung _Information und Kommunikation_ 12.031 Unternehmen. Doch allein sich auf diese Wirtschaftsgliederung zu beschränken, ist irreführend: die produzierte Software wird in vielen Wirtschaftsgliederungen wie Gesundheitswesen, Verkehr, Energie und Wohnungswesen eingesetzt. Also sitzen auch in diesen Unternehmen Fachkräfte, die diese Software einsetzen und supporten.
 
 Zusätzlich zum Gesetzgeber bekommt die Softwarebranche inklusive ihrer SaaS-Anbieter eine höhere Sensibilisierung der Kundschaft in Sachen Datenschutz zu spüren. Datensammelei jeglicher Art wird stärker hinterfragt. Der Datenschutz birgt ein riesiges Marktpotenzial. 
-
-
-====
-* In welchem Gesamtmarkt/welcher Branche bewegt sich Ihr Unternehmen?
-* Wie hat sich die Branche in der Vergangenheit entwickelt und wie sieht die derzeitige Situation aus?
-* Welche Trends bzw. Prognosen sind für Sie wichtig?
-* Wie groß ist der Gesamtmarkt/die Branche insgesamt (Verkaufsstückzahlen/Umsatz)?
-* Welche äußeren Faktoren beeinflussen die Branche (politisch, rechtlich, technologisch etc.)?
-* Inwieweit haben diese Einfluss auf Ihr Unternehmen?
-* Welche Erfolgsfaktoren kennzeichnen die Branche?
-* Welche Rolle spielen Innovation und technischer Fortschritt?
-* Welche Rolle spielen Aspekte der Nachhaltigkeit auf dem Markt für Ihr Unternehmen?
-* Welche Chancen und Risiken ergeben sich?
-====
-
 
 ==== Einnahmequellen
 
@@ -420,6 +402,27 @@ Zusätzlich zum Gesetzgeber bekommt die Softwarebranche inklusive ihrer SaaS-Anb
 * Gebühr pro Statistikabfrage für Nichtmitglieder
 
 === Wettbewerbsumfeld
+
+Der größte Wettbewerber ist das Businessnetzwerk Xing. Es hat in Deutschland laut einer eigenen Erhebung 2019 etwa 15 Millionen Nutzer.footnote:[https://werben.xing.com/daten-und-fakten/] Die angemeldeten Headhunter und Personalberatungen bzw. Personalchefs können sich also aus einem Pool von 15 Millionen Profilseiten mit Lebenslauf und bisherigen Erfahrungen bedienen. Egal, was ein Nutzer für einen "Suchstatus" vermerkt: kontaktiert wird der Nutzer von Headhuntern immer.
+
+Mit Kununu hat Xing auch eine Feedback-Komponente bzw. Bewertungskomponente für Unternehmen eingeführt. Nutzer können ihr (Ex)Unternehmen via formloser Texteingabe also auch mit Sternchen in bestimmten Bereich wie Lohn und Gehalt bewerten. Der Fokus von Xing liegt jedoch auf der Mitarbeiter-Abwerbung. So lange, wie in den Unternehmen es nicht verstanden wird, die Mitarbeiter zu binden, so lang wird es Xing geben.
+
+Jeder zahlungskräftige Interessent kann den sogenannten _Talent Manager_ nutzen. Die Aktivitäten jedes Nutzers können so für alle, die bezahlen, eingesehen werden. Ein Nutzer muss sich sogar mit 5,00 EUR monatlichem Beitrag vor seinen eigenen Daten schützen, denn blockieren kann er seinen eigenen Personalchef nur mit der kostenpflichtigen Variante! Jobikado sammelt keine Daten über die Aktionen der Fachkräfte.
+
+Es gibt keinen "Status" wie _An Jobangeboten interessiert_ oder ähnliches. Kein Gewissenszwang für Fachkräfte. Alle Fachkräfte fällen die selbe eine Entscheidung: den Jobikado-Weichenwert. Der indiviuelle Weichenwert einer Fachkraft bleibt immer geheim. Der durchschnittliche, das Mittel aller Fachkräfte eines Unternehmens, wird öffentlich zur Anzeige gebracht.
+
+Die Feststellung, dass Xing der größte Mitbewerber ist, ist relativ. In seinem Kurzbeitrag _Wo Unternehmen neue Mitarbeiter finden_, schreibt Matthias Janson.footnote:[Wo Unternehmen neue Mitarbeiter finden, https://de.statista.com/infografik/16326/recruiting-kanaele-nach-anteil-der-neueinstellungen/]
+
+[quote]
+____
+Deutsche Unternehmen stellen mehrheitlich Mitarbeiter ein, die sie über Internet-Stellenbörsen oder ihre eigene Webseite gefunden haben. Das zeigt eine Erhebung, die im Auftrag des Stellenportals Monster Worldwide Deutschland GmbH durchgeführt wurde. Eine geringere Rolle spielen Mitarbeiterempfehlungen, Printmedien, die Arbeitsagentur und Karrierenetzwerke. Soziale Netzwerke haben kaum Bedeutung bei der Personalsuche. 
+____
+
+image::recruiting-kanaele.jpg[pdfwidth=90%,align=left]
+
+Auch wenn die Quelle der Auswertung ein Stellenanzeigenportal ist: Stellenanzeigen wird es immer geben, ob nun über die Karriere-Webseite eines Unternehmens, bei Xing, bei Stellenbörsen wie Stepstone oder über aggregierte Stellenanzeigen via Google Jobs. Die Möglichkeit, sich als Stellensuchender bei einem Unternehmen zu bewerben, wird es und muss es immer geben. Der Fokus von Jobikado liegt auf der Mitarbeiterbindung. Unternehmen bezahlen eine Mitgliedschaft, um rechtzeitig informiert zu werden, wie gefragt ihre Mitarbeiter auf dem umkämpften Fachkräfte-Markt sind.
+
+Durch die Berücksichtigung nachhaltiger Aspekte wird Jobikado einen großen Wettbewerbsvorteil erlangen.
 
 == Marketing
 
