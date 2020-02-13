@@ -22,6 +22,7 @@ Andreas Petersell, Roman Meyer
 :warning-caption: :warning:
 // no string "Chapter" in H2
 :chapter-label:
+:table-caption: Tab.
 :figure-caption: Abb.
 
 toc::[]
@@ -149,9 +150,9 @@ Es gibt keine vergleichbaren Konkurrenzprodukte, die ihren Fokus auf die Mitarbe
 
 Jobikado bewegt sich innerhalb einer Vielzahl von Merkmalen, die von der Konkurrenz einzeln abgedeckt werden. Hinzu kommen weitere Ausprägungen des Recruiting-Marktes. Hier einige Mitbewerber und ihr hauptsächlicher Charakter:
 
-. Charakter des Jobnetzwerks: Xing, LinkedIn
+. Charakter des Jobnetzwerks/Socializing: Xing, LinkedIn
 . Charakter von Online-Personalberatungen: Honeypot, get-in-it.de, 4scotty.com
-. Charakter der Stellensuche: Stepstone, Monster, Indeed
+. Charakter der Stellensuche: Stepstone, Monster
 . Charakter des Abwerbens: Headhunter
 . Charakter des Messens der Mitarbeiterbindung: Peakon.com, heartcount.com
 
@@ -224,12 +225,7 @@ Gehaltsanpassungen) in Ansätzen im Silicon-Valley bereits zur Anwendung kommt:
 
 [quote]
 ____
-Behauptet der Kandidat, er habe bereits Offerten von der Konkurrenz? "Dann lassen wir uns diese
-Angebote schriftlich zeigen und denken über ein Gegenangebot nach", so der Personalchef des
-schnellwachsenden Start-ups. Netflix etwa ermutigt seine Angestellten, regelmäßig Bewerbungsgespräche
-mit anderen Unternehmen zu führen, damit sie ihren Marktwert kennen. "Wer das Gefühl hat dass ihm sein
-Arbeitgeber zu wenig zahlt, sollte das seinen Manager wissen lassen, damit der das Fluchtrisiko rechtzeitig
-einschätzen und ggf. reagieren kann", sagt eine Personalchefin.
+Behauptet der Kandidat, er habe bereits Offerten von der Konkurrenz? "Dann lassen wir uns diese Angebote schriftlich zeigen und denken über ein Gegenangebot nach", so der Personalchef des schnellwachsenden Start-ups. Netflix etwa ermutigt seine Angestellten, regelmäßig Bewerbungsgespräche mit anderen Unternehmen zu führen, damit sie ihren Marktwert kennen. "Wer das Gefühl hat dass ihm sein Arbeitgeber zu wenig zahlt, sollte das seinen Manager wissen lassen, damit der das Fluchtrisiko rechtzeitig einschätzen und ggf. reagieren kann", sagt eine Personalchefin.
 ____
 
 Die Fachkraft vertraut der Geschäftsführung, dass diese aufgrund der Informationen über Gehaltsangebote fremder Firmen das Gehalt kontinuierlich anpasst. Wenn das Unternehmen es mit einer Vermeidung einer hohen Fluktuationsrate ernst meint, ist es gut beraten, das Vertrauen seiner Fachkräfte nicht zu enttäuschen.
@@ -237,6 +233,26 @@ Die Fachkraft vertraut der Geschäftsführung, dass diese aufgrund der Informati
 Das Unternehmen erhält nicht erst mit dem Weggang eines Mitarbeiters ein Feedback, sondern schon Jahre davor. Mit der Anzahl der von der Jobikado-Weiche durchgereichten Gehaltsangebote fremder Firmen kann das Unternehmen den Grad der Mitarbeiterzufriedenheit ableiten.
 
 Eine weiteres Indiz ist der durchschnittliche Jobikado-Weichenwert für das Unternehmen, welcher den Durchschnitt des Weichenwerts aller Mitarbeiter abbildet. Der durchschnittliche Jobikado-Weichenwert ist ehrlich, da anonym. Er ist im höchsten Maße aktuell, denn die Fachkräfte passen ihn kontinuierlich an.
+
+=== Value Proposition für das Unternehmen
+
+.Geringere Kosten
+|===
+|Bisher|Mit Jobikado
+
+|Unternehmen erfährt erst durch Kündigung eines Mitarbeiters, dass etwas im Argen ist.
+|Unternehmen erhält lange vor einer Kündigung rechtzeitig Rückmeldung über Unzufriedenheit im Unternehmen bzw. bestimmter Abteilung und kann gegensteuern.
+|Mitarbeiter-Feedback auf der Webseite _Kununu_ gibt dem Unternehmen nur eine statische Rückmeldung: nämlich von *einem* Mitarbeiter zu einer bestimmten Zeit.
+|Unternehmen erhält *tagesaktuelle, unverfälschte Rückmeldung* von *mehreren* Mitarbeitern.
+|===
+
+.Hohe Reputation
+|===
+|Bisher|Mit Jobikado
+
+|Unternehmen zeigt keine Eigeninitiative in Sachen Transparenz. Mitarbeiter bekunden ihren Unmut über das Unternehmen oder eine Abteilung auf der externen Webseite _Kununu_.
+|Unternehmen ist um Transparenz bemüht und nimmt den Unmut direkt auf und richtet sein Handeln danach aus.
+|===
 
 === Kundennutzen für die Fachkraft
 
@@ -268,17 +284,31 @@ Die Fachkraft ist zum Jobwechsel entschlossen, muss aber aufgrund ihres Alters N
 
 *Lösung*: Die Fachkraft veröffentlicht in ihrem Profil lediglich ihre Qualifikationen und Kenntnisse sowie die Dauer, wie lange sie bereits diese Kenntnisse anwendet. Nicht jedoch das Alter, Herkunft, Geschlecht und Hautfarbe. Diskriminierungen diesbezüglich werden weniger wahrscheinlich.
 
-=== Besonderer Nutzen für die Kunden
+=== Value Proposition für die Kunden
 
-* Unternehmen bekommt sofortige, stets aktuelle Rückmeldung der Mitarbeiterbindung
-* Unternehmen wappnet sich gegen eine hohe Fluktuation
-* Unternehmen kann Fachkräfte suchen
-* Fachkraft kann für Gehaltsanpassung aktiv werden
-* Fachkraft und Unternehmen können verifizierte Auswertungen abrufen
-* Fachkraft ist sicher, dass Daten nicht verkauft werden
-* Fachkraft ist sicher, dass das eigene Unternehmen nicht Zugriff auf die Daten erhält
-* Fachkraft erspart sich Zeit und Streß in unnötigen Vorstellungsgesprächen
-* Unternehmen und Fachkraft pflegen ein ausgewogenes Verhältnis
+.Aufmerksamkeit entfachen
+|===
+|Bisher|Mit Jobikado
+
+|Die Fachkraft muss viel Mut aufbringen, um beim Vorgesetzten Gehaltsverhandlungen zu führen. Wer einfach zuverlässig seine Arbeit tätigt, wird bei Gehaltsanpassungen nicht berücksichtigt.
+|Die Arbeit spricht für die Fachkraft. Wer viel Kenntnisse und vollendete Projekte vorweisen kann, bekommt viele Jobofferten, mit denen sich die Fachkraft Aufmerksamkeit verschaffen kann.
+|===
+
+.Stress und Zeit ersparen
+|===
+|Bisher|Mit Jobikado
+
+|Einmal entschlossen, das Unternehmen zu verlassen, riskiert die Fachkraft bei einem externen Vorstellungsgepräch viel Zeit und einen Urlaubstag zu verlieren. Am Ende geht man auseinander, weil am Ende des Interviews ein zu geringes Gehalt angeboten wurde.
+|Über das wichtigse, nämlich das Mindestgehalt, ist man sich schon im Vorfeld einig. Die Gefahr eines Scheiterns einer Übereinkunft ist geringer.
+|===
+
+.Vertrauen schaffen
+|===
+|Bisher|Mit Jobikado
+
+|Bisher muss die Fachkraft bei _Xing_ für den kostenpflichtigen Account bezahlen, um den eigenen Personalchef blockieren zu können, damit dieser nicht den Status _Auf Arbeitsuche_ einsieht. Die Fachkraft bezahlt, um sich vor den eigenen Daten zu schützen!  
+|Die Fachkraft und das Unternehmen arbeiten direkt und vertrauensvoll auf gemeinsamer Datenbasis, ohne Mittler wie _Xing_ oder _Kununu_. Das Verhältnis ist ausgewogen, mit einer Spur von Gamification. Keiner übervorteilt den anderen. Die Daten gehören der Fachkraft und dem Unternehmen. Ein Weiterverkauf der Daten an Dritte ist ausgeschlossen.
+|===
 
 === Zielgruppen
 
