@@ -1,7 +1,7 @@
 = Mitarbeiterbindung und Karriere: Businessplan
 Andreas Petersell, Roman Meyer
 :revnumber: 2.0
-:revdate: 16.02.2020
+:revdate: 17.02.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
 :pdf-theme: default
@@ -22,7 +22,7 @@ Andreas Petersell, Roman Meyer
 :warning-caption: :warning:
 // no string "Chapter" in H2
 :chapter-label:
-:table-caption: Tab.
+:table-caption!:
 :figure-caption: Abb.
 
 toc::[]
@@ -39,7 +39,7 @@ TIP: Stellen Sie sich vor, Ihre Fluktuationsrate innerhalb Ihrer Mitarbeiter geh
 
 TIP: Stellen Sie sich vor, Ihre Geschäftsführung passt regelmäßig Ihr Gehalt an? Dabei hilft Jobikado. Wenn sie es dennoch nicht tut, helfen wir Ihnen, einen neuen Job zu finden.
 
-Jobikado ist ein Portal für Mitarbeiterbindung und Karriere. Mit Jobikado überprüft das Unternehmer die Mitarbeiterbindung im Unternehmen und kann ggf. früh Einfluss nehmen. Zugleich fördert Jobikado die individuellen Karrieren der Mitarbeiter: entweder durch eine Anpassung des Gehalts oder durch die Unterstützung bei der Jobsuche.
+Jobikado ist ein Portal für Mitarbeiterbindung und Karriere. Mit Jobikado monitort das Unternehmen die Mitarbeiterbindung im Unternehmen und kann ggf. früh Einfluss nehmen. Die Mitarbeiterbindung wird durch freiwilliges, anonymes Feedback der Fachkräfte sichtbar. Zugleich fördert Jobikado die individuellen Karrieren der Mitarbeiter: entweder durch eine Anpassung des Gehalts oder - wenn es denn sein muss, durch die Unterstützung bei der Jobsuche.
 
 Unternehmen suchen ständig nach neuen Fachkräften. Dies können sie über Jobikado tun. Aber Jobikado gibt auch allen Unternehmen die Möglichkeit, die eigenen Mitarbeiter ans Unternehmen zu binden und wie ein Schutzschirm die Angebote anderer Firmen abzuwehren. Jobikado ist ein Business-Portal mit einer hohen *Gamification-Komponente*, welches vermeintliche Gegensätze vereint. Fachkräfte und Unternehmensleitung arbeiten in einem ausgewogenem Verhältnis zusammen. 
 
@@ -63,8 +63,7 @@ Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) eine Jobo
 
 *Gehaltsangebot liegt unterhalb einer 20%igen Erhöhung des aktuellen Gehalts*
 
-* Die Fachkraft erhält das Angebot nicht. Sie bekommt lediglich Kenntnis, dass eines
-eingegangen ist.
+* Die Fachkraft erhält das Angebot nicht. Sie bekommt lediglich Kenntnis, dass eines eingegangen ist.
 * Das eigene Unternehmen B erhält vom Angebot Kenntnis. Das Unternehmen kann nun entscheiden, ob es seinem Mitarbeiter mehr Gehalt zahlt.
 
 Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden.
@@ -108,7 +107,7 @@ Die Fachkraft wird durch Jobikado angehalten, zu überlegen, was sie an den derz
 
 Jobikado erweitert als erstes Geschäftsmodell den Fokus weg von der zentrierten Person hin auf 3 Akteure, die gleichermaßen Verantwortung füreinander, aber auch für sich selbst übernehmen können. Je nach Einsatz der eigenen Ressourcen bringt Jobikado Vor- und Nachteile für die Mitspieler.footnote:[Adaption des Rubberband-Modells an Jobikado von Dave Boddin, Berlin 2020] Grundlage von Jobikado ist
 
-- *Transparenz*: keine vorschnelles Handeln der Beteiligten
+- *Transparenz*: kein vorschnelles Handeln der Beteiligten
 - *Ausgewogenheit*: jeder kann gleichermaßen Verantwortung übernehmen 
 
 
@@ -288,7 +287,6 @@ indexterm:[Jobikado-Weichenwert]
 
 Kündigungen und teure Neueinstellungen können vermieden werden.
 
-.Geringere Kosten
 |===
 |Bisher|Mit Jobikado
 
@@ -304,7 +302,6 @@ indexterm:[Value Proposition,Unternehmen]
 
 Das Unternehmen findet Anerkennung als souveräner Arbeitgeber, der Probleme frühzeitig identifiziert und löst.
 
-.Hohe Reputation
 |===
 |Bisher|Mit Jobikado
 
@@ -346,7 +343,6 @@ Die Fachkraft ist zum Jobwechsel entschlossen, muss aber aufgrund ihres Alters N
 
 ==== Unterstützung bei Gehaltsanpassungen
 
-.Aufmerksamkeit entfachen
 |===
 |Bisher|Mit Jobikado
 
@@ -357,7 +353,6 @@ indexterm:[Value Proposition,Fachkraft]
 
 ==== Unterstützung bei der Jobsuche
 
-.Stress und Zeit ersparen
 |===
 |Bisher|Mit Jobikado
 
@@ -367,7 +362,6 @@ indexterm:[Value Proposition,Fachkraft]
 
 ==== Eigentümer seiner Daten
 
-.Vertrauen schaffen
 |===
 |Bisher|Mit Jobikado
 
@@ -402,7 +396,6 @@ Sowohl in der Unternehmensführung als auch unter festangestellten Fachkräften 
 * Eigenschaften wie _hinterfragend_, _sozial_ und _kritisch_
 
 in der Zielgruppe der gebildeten Akteure im Unternehmen vorherrschend sind. Zahlungsbereitschaft und Statusbewußtsein für ein Portal bzw. eine Community sind start ausgesprägt.
-
 indexterm:[LOHAS]
 
 Jobikado richtet sich *NICHT* explizit an:
@@ -489,16 +482,9 @@ Die Beauftragung eines Steuerberaters und eines externen Personalbüros werden L
 
 * *Florian Eulenstädt* - Recruitment Officer in einer Softwarefirma, Mentorenrolle: Profunder Kenner des Talent Managers von Xing und vieler weiterer Online-Tools und Portale der Personalbeschaffung im Internet.
 * *Dave Boddin* - Mathematisch-technischer Software-Entwickler, Wirtschaftsinformatiker mit Schwerpunkt Unternehmensführung. Mentorenrolle: Unternehmensaufbau und Netzwerkkenner diverser HR-Techs.
+* *Dirk Lukas* - Diplom-Betriebswirt (FH) mit Schwerpunkt Controlling, Mentorenrolle: Finanzen und Buchführung.
 * *Ovidiu Moroschan* - Chefdesigner bei einer Softwarefirma, Mentorenrolle: User Experience und Designfragen.
 indexterm:[Mentoren]
-
-=== Ausstiegsszenario
-
-NOTE: Gibt es ein Ausstiegsszenario, wenn ein Mitglied/Mitglieder das Team verlassen muss/müssen o-der will/werden?
-
-=== Einkommen der Gründungsmitglieder
-
-NOTE: Haben Sie Überlegungen zum kalkulatorischen Unternehmerlohn angestellt?
 
 == Marktanalyse
 
@@ -526,8 +512,9 @@ Zusätzlich zum Gesetzgeber bekommt die Softwarebranche inklusive ihrer SaaS-Anb
 
 ==== Einnahmequellen
 
-* Mitgliedschaft für Unternehmen zur Mitarbeiterbindung (Schutzschirm der Jobikado-Weiche)
-* Kosten pro Gehaltsangebot von Personalberatungen
+* Mitgliedschaft des Unternehmens
+* Mitgliedschaft der Fachkraft
+* Kosten pro Gehaltsangebot von Personalberatungen, so lang das Unternehmen der Fachkraft nicht Mitglied ist
 * Gebühr pro Statistikabfrage für Nichtmitglieder
 indexterm:[Einnahmequellen]
 indexterm:[Schutzschirm]
@@ -567,7 +554,7 @@ Durch die Berücksichtigung nachhaltiger Aspekte wird Jobikado einen großen Wet
 
 === Produktpolitik
 
-Jobikado baut als Geschäfstmodell auf einen Primärkunden auf: der festangestellten Fachkraft. Diese nutzt den Service von Jobikado zum Selbstkostenpreis. Der Sekundärkunde, das Unternehmen, zahlt für Jobikado nur in Verbindung mit der Information, die er vom Primärkunden erhält.
+Jobikado baut als Geschäftsmodell auf einen Primärkunden auf: der festangestellten Fachkraft. Diese nutzt den Service von Jobikado zum Selbstkostenpreis. Der Sekundärkunde, das Unternehmen, zahlt für Jobikado nur in Verbindung mit der Information, die er vom Primärkunden erhält.
 
 Für die *Fachkraft (Primärkunde)* gilt:
 
@@ -579,10 +566,11 @@ Für das *Unternehmen (Sekundärkunde)* gilt:
 . Es zieht Nutzen aus dem Produkt und mißt ihm einen Wert bei.
 . Es bezahlt für das Produkt.
 
-==== Produkt Specialist (Spezialist)
+==== Produkt _Specialist (Spezialist)_
 
-Kunde = *Fachkraft*, bezahlte Mitgliedschaft zum Selbstkostenpreis
-Bildet mit den Spezialisten seines Unternehmens eine Community: Special Unit (Spezialeinheit)
+* Kunde = *Fachkraft*
+* bezahlte Mitgliedschaft zum Selbstkostenpreis
+* bildet mit den Spezialisten seines Unternehmens eine Community: Special Unit (Spezialeinheit)
 
 *Spezialisten* können:
 
@@ -597,11 +585,15 @@ Bildet mit den Spezialisten seines Unternehmens eine Community: Special Unit (Sp
 
 . Durchschnittlichen Jobikado-Weichenwert fürs Unternehmen veröffentlichen
 . Durchschnittlichen Jahreslohn der Spezialisten erfahren
+indexterm:[Produkt,Spezialist]
+indexterm:[Spezialeinheit]
+indexterm:[Kunde,Fachkraft]
 
-==== Produkt Enterprise
+==== Produkt _Enterprise_
 
-Kunde = *Unternehmen der Fachkraft*, bezahlte Mitgliedschaft
-Bildet mit den Spezialisten und der Spezialeinheit eine Partnerschaft.
+* Kunde = *Unternehmen der Fachkraft*
+* bezahlte Mitgliedschaft
+* bildet mit den Spezialisten und der Spezialeinheit eine Partnerschaft
 
 *Spezialisten* können:
 
@@ -612,6 +604,10 @@ Bildet mit den Spezialisten und der Spezialeinheit eine Partnerschaft.
 . Den durchschnittlichen Jobikado-Weichenwert auf Abteilungsebene einstellen. Es gibt neben dem *öffentlichen Jobikado-Weichenwert für das gesamte Unternehmen* noch einen *internen Weichenwert jeweils auf Abteilungsebene* heruntergebrochen. Voraussetzung ist, dass einer Abteilung mindestens 3 Spezialisten angehören.
 . Den Spezialisten, die gehäuft Jobofferten erhalten, eine Lohnerhöhung gewähren. Sie sollte aber auch von Zeit zu Zeit die anderen Spezialisten berücksichtigen.
 . Fremden Spezialisten Jobofferten mit Gehaltsangebot unterbreiten.
+indexterm:[Produkt,Enterprise]
+indexterm:[Fachkraft]
+indexterm:[Kunde,Fachkraft]
+indexterm:[Kunde,Unternehmen]
 
 ==== Produkt Hunter
 
@@ -619,27 +615,29 @@ Kunde = *Headhunter bzw. Personalberatung*
 
 * Kostenlose Jobofferten = Unternehmen der Fachkraft ist *nicht* auf Jobikado Mitglied
 * Kosten pro Jobofferte = Unternehmen des Spezialisten ist Mitglied auf Jobikado
+indexterm:[Produkt,Hunter]
+
+==== Nebenprodukt Statistik
+
+Nichtmitglieder (Headhunter und andere) können kostenpflichtig Auswertungen erstellen lassen.
+indexterm:[Produkt,Statistik]
 
 === Preispolitik
 
-* Spezialist = 1 Anteil monatlich/jährlich
-* Enterprise = 10 Anteile monatlich/jährlich pro Spezialist
+* *Spezialist* = 1 Anteil monatlich/jährlich
+* *Enterprise* = 10 Anteile monatlich/jährlich pro Spezialist
 
 Beispiel: Bezahlt der Spezialist 1,00 EUR pro Monat (12,00 Jahr) und in der Spezialeinheit des Unternehmens sind 3 Spezialisten, dann bezahlt das Enterprise 30 EUR monatlich bzw. 360 EUR jährlich.
 
-Hunter = Kosten pro Gehaltsangebot (10 Anteile), im Beispiel 10,00 EUR Schutzgebühr.
+*Hunter* = Kosten pro Gehaltsangebot (10 Anteile), im Beispiel 10,00 EUR Schutzgebühr.
 
 === Kommunikationspolitik
 
-Die Gründer verlassen sich zu einem hohen Anteil auf die *virale Ausbreitung des Produkts*, da es einen starken Community-Charakter trägt. Spezialisten empfehlen Jobikado weiter und werben weitere Kollegen und Bekannte in anderen Firmen.
-
-Sobald sich 3 Spezialisten eines Unternehmens gefunden haben, setzten sich die Gründer direkt mit dem Unternehmen in Verbindung, um der Geschäftsführung und der Personalabteilung die Möglichkeiten einer Zusammenarbeit aufzuzeigen. Ein ausgewogener, respektvoller Umgang mit seinen Spezialisten ist eine gute Voraussetzung, diese so lang wie möglich ans Unternehmen zu binden.
-
-Auch wird Jobikado seine Präsenz in den *Social Media Kanälen* ausbauen. Neben den klassischen Portalen wie Twitter, Facebook etc, wird Jobikado verstärkt auf github.com, gitlab.com, gitea.com und dev.to vertreten sein.
+Jobikado wird seine Präsenz in den *Social Media Kanälen* ausbauen. Neben den klassischen Portalen wie Twitter, Facebook etc, wird Jobikado verstärkt dort in Erscheinung treten, wo die Zielgruppe der Fachkräfte, im ersten Eintrittsmarkt vertreten ist: auf github.com, gitlab.com, gitea.com und dev.to.
 
 Da das Geschäftsmodell Jobikados im gesellschaftlichen Bereich ein im hohen Maße nachhaltiges Modell ist, was seine ökonomischen und sozialen Zielsetzungen betrifft, werden die Gründer im Rahmen einer *Presse- und Öffenlichkeitsarbeit* ausführlich darüber berichten. 
 
-Jobikado steht für eine
+Jobikado steht für
 
 * eine langfristige Zusammenarbeit zwischen Fachkraft und Unternehmen,
 * eine profundere zwischenmenschliche Beziehung zwischen den Mitarbeitern selbst und zwischen Mitarbeiterschaft und Unternehmensleitung,
@@ -647,7 +645,15 @@ Jobikado steht für eine
 
 Diese Ziele werden wir verstärkt nach außen, in den Social Media Kanälen und in unserer Öffentlichkeitsarbeit, kommunizieren. Wir versprechen uns davon Aufmerksamkeit in den Medien und in Folge den Zulauf von Spezialisten.
 
+Auf Unternehmensebene sprechen wir zuvorderst die Personalabteilungen auf HR-Events und Messen an. Sowohl mit Messe-Ständen als auch mit kurzen Pitches auf HR-Events.
+
 === Vertriebspolitik
+
+Die Gründer verlassen sich zu einem hohen Anteil auf die *virale Ausbreitung des Produkts*, da es einen starken Community-Charakter trägt. Spezialisten empfehlen Jobikado weiter und werben weitere Kollegen und Bekannte in anderen Firmen. Im Bereich des Produktes _Spezialist_ für Fachkräfte setzen wir im Rahmen des viralen Marketings auf den Empfehlungsvertrieb. Rabatte und Gamifiation-Elemente ermutigen die Fachkräfte, neue Mitglieder zu gewinnen.
+
+Sobald sich 3 Spezialisten eines Unternehmens gefunden haben, setzten sich die Gründer direkt mit dem Unternehmen in Verbindung, um der Geschäftsführung und der Personalabteilung die Möglichkeiten einer Zusammenarbeit aufzuzeigen. Ein ausgewogener, respektvoller Umgang mit seinen Spezialisten ist eine gute Voraussetzung, diese so lang wie möglich ans Unternehmen zu binden.
+
+Aber auch der Vertrieb über Multiplikatoren wird eine große Rolle spielen. Dies könnten Vereine, Verbände, Genossenschaften und Speaker u.ä. sein.
 
 == Das Unternehmen
 
@@ -662,8 +668,6 @@ Diese Ziele werden wir verstärkt nach außen, in den Social Media Kanälen und 
 === Standort
 
 == Finanzplanung und Finanzierung
-
-(min 3 bis max 6 Seiten)
 
 === Gewinn- und Verlustplanung
 
