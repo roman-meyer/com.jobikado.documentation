@@ -1,7 +1,7 @@
 = Mitarbeiterbindung und Karriere: Businessplan
 Andreas Petersell, Roman Meyer
 :revnumber: 2.0
-:revdate: 17.02.2020
+:revdate: 18.02.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
 :pdf-theme: default
@@ -178,6 +178,14 @@ Jobikados Schwerpunkte liegen im Bereich _Steigerung des Gehalts_ und _Mitarbeit
 .Jobikado vereint Interessen
 image::fokus-matrix.png[pdfwidth=70%,align=left]
 
+Es gibt noch ein Konkurrenzprodukt, welches seinen Fokus auf die Mitarbeiterbindung legt: das schwedische Benify mit seinem deutschen Ableger Benify Deutschland GmbH. Dies ist ein guter Anfang, hat nur einen Haken: das Produkt ist eindimensional, denn es denkt nur an eine eindimensionale Kommunikation: von der Geschäftsführung zum Mitarbeiter. Bei der direkten Kundenansprache ist wohl die Unternehmensführung gemeint:
+
+[quote]
+____
+Wir halten automatisierte Abläufe für jede Phase des Mitarbeiter-Lebenszyklus bereit. Und Sie können sich endlich wieder auf die wichtigen Teile Ihrer Arbeit konzentrieren.
+____
+
+Schon die Wortschöpfung _Mitarbeiter-Lebenszyklus_ untermauert die Eindimensionalität. Vertrauen jedoch entsteht nur im ausgewogenem Verhältnis. Die Lebenswirklichkeit des Mitarbeiters, also der Fachkraft ohne Personalverantwortung, hat nicht die Geschäftsführung zum Dreh- und Angelpunkt. Es sind die unmittelbaren Vorgesetzten. Ein Mitarbeiter kommt neu in ein Unternehmen, kündigt aber wegen eines bestimmten Vorgesetzten. Da nützen auch Ansagen (= eindimensionale Kommunikation) der Geschäftsführung via App wenig.
 indexterm:[Jobnetzwerk]
 indexterm:[Socializing]
 indexterm:[Xing]
@@ -189,7 +197,7 @@ indexterm:[Headhunter]
 indexterm:[Peakon]
 indexterm:[Heartcount]
 indexterm:[get-in-it]
-indexterm:[Ausprägung des Recruiting-Marktes]
+indexterm:[Benify]]
 
 ===== Business-Netzwerk wie Xing
 
@@ -220,6 +228,8 @@ Der durchschnittliche Jobikado-Weichenwert ist ehrlich, da anonym. Er ist im hö
 *Datenschutz* - Im Gegensatz zu Xing, wo jeder zahlungskräftige Interessent den sogenannten Talent Manager nutzen kann, verifiziert Jobikado Unternehmen und Personalberatungen. Nur Jobikado-Mitglieder können anonyme statistische Auswertungen über Gebiete und Branchen abfragen, nie jedoch über einzelne Mitglieder der Plattform. Jobikado sammelt keine Daten über die Aktionen der Fachkräfte.
 
 Es gibt keinen "Status" wie _An Jobangeboten interessiert_ oder ähnliches. Kein Gewissenszwang für Fachkräfte. Alle Fachkräfte fällen die selbe eine Entscheidung: den Jobikado-Weichenwert. Der indiviuelle Weichenwert einer Fachkraft bleibt immer geheim. Der durchschnittliche, das Mittel aller Fachkräfte eines Unternehmens, wird öffentlich zur Anzeige gebracht.
+
+*Vertrauen und Ausgewogenheit* - Diese beiden Begriffe gelten sowohl zwischen den beiden Kunden-Zielgruppen von Jobikado, Unternehmensleitung und Fachkräften, aber auch zwischen dem Portal Jobikado und seinen Kunden. Niemand soll über übervorteilt oder getrackt bzw. überwacht werden.
 
 *Antidiskriminierend* - Die Fachkraft veröffentlicht in ihrem Profil lediglich ihre Qualifikationen und Kenntnisse sowie die Dauer, wie lange sie bereits diese Kenntnisse anwendet. Nicht jedoch das Alter, Herkunft, Geschlecht und Hautfarbe. Diskriminierungen diesbezüglich werden weniger wahrscheinlich.
 indexterm:[Alleinstellungsmerkmal]
@@ -622,6 +632,11 @@ indexterm:[Produkt,Hunter]
 Nichtmitglieder (Headhunter und andere) können kostenpflichtig Auswertungen erstellen lassen.
 indexterm:[Produkt,Statistik]
 
+==== Skalierbare Produktpalette
+
+Eine Produkterweiterung wäre ein zukünftiges *Referral-Produkt*. Empfehlungen von den Mitarbeitern auf freie Stellen im Unternehmen sind ebenfalls Kennzeichen einer hohen Mitarbeiterzufriedenheit und Mitarbeiterbindung.
+indexterm:[Produkt,Referrals]
+
 === Preispolitik
 
 * *Spezialist* = 1 Anteil monatlich/jährlich
@@ -645,7 +660,7 @@ Jobikado steht für
 
 Diese Ziele werden wir verstärkt nach außen, in den Social Media Kanälen und in unserer Öffentlichkeitsarbeit, kommunizieren. Wir versprechen uns davon Aufmerksamkeit in den Medien und in Folge den Zulauf von Spezialisten.
 
-Auf Unternehmensebene sprechen wir zuvorderst die Personalabteilungen auf HR-Events und Messen an. Sowohl mit Messe-Ständen als auch mit kurzen Pitches auf HR-Events.
+Auf Unternehmensebene sprechen wir zuvorderst die Personalabteilungen auf HR-Events und Messen an. Sowohl mit Messe-Ständen als auch mit kurzen Pitches auf HR-Events. Ebenso werden die Gründer in HR-Foren, HR-Communitys und Verbänden aktiv. Auch sind Artikel in Fachzeitschriften geplant.
 
 === Vertriebspolitik
 
