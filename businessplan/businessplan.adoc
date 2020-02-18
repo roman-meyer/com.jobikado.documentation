@@ -178,14 +178,14 @@ Jobikados Schwerpunkte liegen im Bereich _Steigerung des Gehalts_ und _Mitarbeit
 .Jobikado vereint Interessen
 image::fokus-matrix.png[pdfwidth=70%,align=left]
 
-Es gibt noch ein Konkurrenzprodukt, welches seinen Fokus auf die Mitarbeiterbindung legt: das schwedische Benify mit seinem deutschen Ableger Benify Deutschland GmbH. Dies ist ein guter Anfang, hat nur einen Haken: das Produkt ist eindimensional, denn es denkt nur an eine eindimensionale Kommunikation: von der Geschäftsführung zum Mitarbeiter. Bei der direkten Kundenansprache ist wohl die Unternehmensführung gemeint:
+Es gibt noch ein Konkurrenzprodukt, welches seinen Fokus auf die Mitarbeiterbindung legt: das schwedische Benify mit seinem deutschen Ableger Benify Deutschland GmbH. Dies ist ein guter Anfang, hat nur einen Haken: das Produkt ist eindimensional, denn es denkt nur an eine eindimensionale Kommunikation: von der Geschäftsführung zum Mitarbeiter. Bei der direkten Kundenansprache auf der Firmenwebseite ist wohl die Unternehmensführung gemeint:
 
 [quote]
 ____
 Wir halten automatisierte Abläufe für jede Phase des Mitarbeiter-Lebenszyklus bereit. Und Sie können sich endlich wieder auf die wichtigen Teile Ihrer Arbeit konzentrieren.
 ____
 
-Schon die Wortschöpfung _Mitarbeiter-Lebenszyklus_ untermauert die Eindimensionalität. Vertrauen jedoch entsteht nur im ausgewogenem Verhältnis. Die Lebenswirklichkeit des Mitarbeiters, also der Fachkraft ohne Personalverantwortung, hat nicht die Geschäftsführung zum Dreh- und Angelpunkt. Es sind die unmittelbaren Vorgesetzten. Ein Mitarbeiter kommt neu in ein Unternehmen, kündigt aber wegen eines bestimmten Vorgesetzten. Da nützen auch Ansagen (= eindimensionale Kommunikation) der Geschäftsführung via App wenig.
+Schon die Wortschöpfung _Mitarbeiter-Lebenszyklus_ untermauert die Eindimensionalität. Vertrauen jedoch entsteht nur im ausgewogenem Verhältnis. Erschwerend kommt hinzu, das die Lebenswirklichkeit des Mitarbeiters, also der Fachkraft ohne Personalverantwortung, nicht die Geschäftsführung zum Dreh- und Angelpunkt hat. Es sind die unmittelbaren Vorgesetzten. Ein Mitarbeiter kommt neu in ein Unternehmen wegen der guten Reputation des Unternehmens in der Gesamtheit, kündigt aber wegen eines bestimmten Vorgesetzten. Vor diesem Hintergrund nützen auch Ansagen (eindimensionale Kommunikation) der Geschäftsführung via App wenig.
 indexterm:[Jobnetzwerk]
 indexterm:[Socializing]
 indexterm:[Xing]
@@ -305,7 +305,6 @@ Kündigungen und teure Neueinstellungen können vermieden werden.
 |Mitarbeiter-Feedback auf der Webseite _Kununu_ gibt dem Unternehmen nur eine statische Rückmeldung: nämlich von *einem* Mitarbeiter zu einer bestimmten Zeit.
 |Unternehmen erhält *tagesaktuelle, unverfälschte Rückmeldung* von *mehreren* Mitarbeitern. Das Unternehmen erhält mehr Zeit, gegenzusteuern.
 |===
-
 indexterm:[Value Proposition,Unternehmen]
 
 ==== Hohe Reputation
@@ -470,7 +469,7 @@ Beide sind es gewohnt, im Team beharrlich und zielorientiert auf die Auslieferun
 
 === Andreas Petersell (Chief Executive Officer)
 
-Andreas Petersell (53) ist der kreative Schöpfer der Geschäftsidee. Als Innovationmanager erkannte er, dass mit Zunahme von neuen Kollegen die Innovationskraft der Firma stark schwand. Ja, dass sogar der Fortbestand der Firma durch den massiven, zeitgleichen Fortgang von Fachkräften gefährdet war. Als er sich selbst auf Stellenangebote anderer Firmen bewarb, merkte er, wieviel Zeit, Kraft und Selbstzweifel er für einen ungewissen Ausgang investierte. Er entdeckte nicht nur seine immer noch große Bindung an die Firma, sondern auch die Jobikado-Weiche.
+Andreas Petersell (53) ist der Schöpfer der Geschäftsidee. Als Innovationmanager erkannte er, dass mit Zunahme von neuen Kollegen die Innovationskraft der Firma stark schwand. Ja, dass sogar der Fortbestand der Firma durch den massiven, zeitgleichen Fortgang von Fachkräften gefährdet war. Als er sich selbst auf Stellenangebote anderer Firmen bewarb, merkte er, wieviel Zeit, Kraft und Selbstzweifel er für einen ungewissen Ausgang investierte. Er entdeckte nicht nur seine immer noch große Bindung an die Firma, sondern auch die Jobikado-Weiche.
 
 Andreas Petersell hat an der Humboldt-Universität Germanistik und Anglistik auf Lehramt studiert. Er arbeitete mehrere Jahre als Technischer Redakteur und Dozent. Erklärungsbedürftige Zusammenhänge zu kommunizieren und erfahrbar zu machen, ist seine große Leidenschaft. Als Innovationmanager lernte er, überall die Möglichkeiten zu entdecken, in dem er Erfolgreiches aus einer Branche mit Anpassungen in andere Branchen adaptierte oder Ideen aus verschiedenen Zusammenhängen miteinander verknüpfte. Er bedient als Technischer Redakteur im Single-Source Publishing und als Informationsarchitekt eine Schnittstelle zwischen Technologie, Strukturierung und sprachlichem Ausdruck.
 indexterm:[Gründer,Andreas Petersell]
@@ -542,7 +541,6 @@ indexterm:[Kununu]
 indexterm:[Headhunter]
 
 Es gibt keinen "Status" wie _An Jobangeboten interessiert_ oder ähnliches. Kein Gewissenszwang für Fachkräfte. Alle Fachkräfte fällen die selbe eine Entscheidung: den Jobikado-Weichenwert. Der indiviuelle Weichenwert einer Fachkraft bleibt immer geheim. Der durchschnittliche, das Mittel aller Fachkräfte eines Unternehmens, wird öffentlich zur Anzeige gebracht.
-
 indexterm:[Jobikado-Weichenwert]
 
 Die Feststellung, dass Xing der größte Mitbewerber ist, ist relativ. In seinem Kurzbeitrag _Wo Unternehmen neue Mitarbeiter finden_, schreibt Matthias Janson.footnote:[Wo Unternehmen neue Mitarbeiter finden, https://de.statista.com/infografik/16326/recruiting-kanaele-nach-anteil-der-neueinstellungen/]
@@ -582,7 +580,7 @@ Für das *Unternehmen (Sekundärkunde)* gilt:
 * bezahlte Mitgliedschaft zum Selbstkostenpreis
 * bildet mit den Spezialisten seines Unternehmens eine Community: Special Unit (Spezialeinheit)
 
-*Spezialisten* können:
+Die *Spezialisten* können:
 
 . Individuellen Jobikado-Weichenwert bestimmen
 . Jobikado beauftragen, den Mindestjahreslohn bei Jobofferten nachträglich zu erfragen
@@ -591,7 +589,7 @@ Für das *Unternehmen (Sekundärkunde)* gilt:
 . Kostenlose Auswertungen bundesweit tätigen
 . Kann Profil pflegen (Änderung in: Kenntnisse, Weichenwert, Arbeitgeber, Gehaltshöhe uvm.)
 
-*Spezialeinheit* (mind. 3) können:
+Die *Spezialeinheit* (mind. 3 Spezialisten) kann:
 
 . Durchschnittlichen Jobikado-Weichenwert fürs Unternehmen veröffentlichen
 . Durchschnittlichen Jahreslohn der Spezialisten erfahren
@@ -599,19 +597,19 @@ indexterm:[Produkt,Spezialist]
 indexterm:[Spezialeinheit]
 indexterm:[Kunde,Fachkraft]
 
-==== Produkt _Enterprise_
+==== Produkt _Enterprise (Unternehmen)_
 
 * Kunde = *Unternehmen der Fachkraft*
 * bezahlte Mitgliedschaft
 * bildet mit den Spezialisten und der Spezialeinheit eine Partnerschaft
 
-*Spezialisten* können:
+Die *Spezialisten* können:
 
-. Individuellen Jobikado-Weichenwert scharfschalten und somit Jobofferten fremder Unternehmen ingelesen an eigenes Unternehmen weiterleiten, so sie unterhalb ihres Jobikado-Weichenwertes liegen
+. Individuellen Jobikado-Weichenwert _scharfschalten_ und somit Jobofferten fremder Unternehmen ungelesen ans eigene Unternehmen weiterleiten, so sie unterhalb ihres Jobikado-Weichenwertes liegen
 
-*Unternehmen* kann:
+Das *Unternehmen* kann:
 
-. Den durchschnittlichen Jobikado-Weichenwert auf Abteilungsebene einstellen. Es gibt neben dem *öffentlichen Jobikado-Weichenwert für das gesamte Unternehmen* noch einen *internen Weichenwert jeweils auf Abteilungsebene* heruntergebrochen. Voraussetzung ist, dass einer Abteilung mindestens 3 Spezialisten angehören.
+. Den durchschnittlichen Jobikado-Weichenwert auf Abteilungsebene ausrechnen. Bisher gibt es nur *öffentlichen Jobikado-Weichenwert für das gesamte Unternehmen*. Das Unternehmen hat nun die Möglichkeit, jeweils einen *internen Weichenwert auf Abteilungsebene* herunterzubrechen. Voraussetzung ist, dass einer Abteilung mindestens 3 Spezialisten angehören. Das Unternehmen erhält also einen Weichenwert pro Abteilung und kann nachverfolgen, in welcher Abteilung die Mitarbeiterzufriedenheit am größten ist.
 . Den Spezialisten, die gehäuft Jobofferten erhalten, eine Lohnerhöhung gewähren. Sie sollte aber auch von Zeit zu Zeit die anderen Spezialisten berücksichtigen.
 . Fremden Spezialisten Jobofferten mit Gehaltsangebot unterbreiten.
 indexterm:[Produkt,Enterprise]
@@ -619,7 +617,7 @@ indexterm:[Fachkraft]
 indexterm:[Kunde,Fachkraft]
 indexterm:[Kunde,Unternehmen]
 
-==== Produkt Hunter
+==== Produkt _Hunter_
 
 Kunde = *Headhunter bzw. Personalberatung*
 
@@ -642,7 +640,7 @@ indexterm:[Produkt,Referrals]
 * *Spezialist* = 1 Anteil monatlich/jährlich
 * *Enterprise* = 10 Anteile monatlich/jährlich pro Spezialist
 
-Beispiel: Bezahlt der Spezialist 1,00 EUR pro Monat (12,00 Jahr) und in der Spezialeinheit des Unternehmens sind 3 Spezialisten, dann bezahlt das Enterprise 30 EUR monatlich bzw. 360 EUR jährlich.
+Beispiel: Bezahlt der Spezialist 1,00 EUR pro Monat und in der Spezialeinheit des Unternehmens sind 3 Spezialisten versammelt (3,00 EUR), dann bezahlt das Unternehmen für das Produkt _Enterprise_ 30 EUR monatlich bzw. 360 EUR jährlich.
 
 *Hunter* = Kosten pro Gehaltsangebot (10 Anteile), im Beispiel 10,00 EUR Schutzgebühr.
 
