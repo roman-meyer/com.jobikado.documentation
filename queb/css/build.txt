@@ -18,9 +18,5 @@ asciidoctor -a linkcss -a allow-uri-read -v -a stylesheet=css\jobikado.css --tra
 // HTML rot Weissensee
 asciidoctor -a linkcss -a allow-uri-read -v -a stylesheet=css\jobikado.css --trace -D C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan\out\html C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan\businessplan.adoc
 
-+++ PDF Jobikado Queb e.V. 
-// PDF rot Ahrensfelde
-asciidoctor-pdf --trace -D C:\Daten\com.jobikado.documentation\queb C:\Daten\com.jobikado.documentation\queb\queb.adoc
-
 ## Farben
 Jobikado Roter Farbton: RGB 230, 0, 70 oder #E60046
