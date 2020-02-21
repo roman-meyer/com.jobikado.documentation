@@ -69,7 +69,7 @@ Jedes Unternehmen möchte für die Zukunft gewappnet und innovativ sein. Doch wa
 
 Wie entstehen Innovation innerhalb einer Firma? Es reicht nicht, Ideen zu äußern. Für deren Verwirklichung muss der Innovator Politik betreiben, Verbündente finden und Überzeugungsarbeit leisten. Dafür muss er muss zwingend auf das in Jahren zuvor erlangte Vertrauen der Kollegen der gesamten Firma zurückgreifen. Dieses abteilungsübergreifende Vertrauen kann sich aber nicht aufbauen, wenn Mitarbeiter immer wieder die Firma verlassen. Ein Unternehmen bleibt nur innovativ, wenn es erfahrene Fachkräfte hat, die sich gegenseitig vertrauen. Ohne diese abteilungsübergreifenden Netzwerke werden neue Ideen nicht aufgenommen und transportiert. Jede gemeinsam neu entwickelte Innovation hilft nicht nur dem Überleben der Firma, sondern ist sinnstiftend für die Mitarbeiterschaft und erhöht die Mitarbeiterzufriedenheit exorbitant.
 
-Eine mögliche Lösung auf die Probleme könnte sein: ehrliches Feedback der Mitarbeiter erhalten und mit diesen Erkenntnissen um eine hohe Mitarbeiterbindung ringen. Neben der Unternehmensführung ist auch die gelernte bzw. studierte Fachkraft mit Problemen konfrontiert.
+Neben der Unternehmensführung ist auch die gelernte bzw. studierte Fachkraft mit Problemen konfrontiert.
 
 === Problem 3: Fachkraft wünscht sich höheres Gehalt - traut sich nicht, es einzufordern
 
@@ -77,7 +77,73 @@ Das Gehalt ist Grundlage eines jeden Arbeitsverhältnisses. Habe ich ein zu geri
 
 Für eine kontinuierliche Gehaltsanpassung wäre es das Optimum, dass jede Fachkraft ein gutes Verhältnis zum Vorgesetzten hat und womöglich im ständigen Kontakt zur Geschäftsführung steht. Darüber hinaus hat er oder sie ein gesundes Selbstbewußtsein, um regelmäßig ein höheres Gehalt einzufordern. Viele Mitarbeiter haben jedoch nicht den Mut, kontinuierlich beim Vorgesetzten vorzusprechen.
 
-äääääääää
+Zusammengefasst: Jobikados Ziel ist es, ein ehrliches, zeitnahes Mitarbeiterfeedback zu fördern und zugleich eine hohe Mitarbeiterbindung zu ereichen, um die Fluktuationsrate so gering wie möglich zu halten.
+
+== Strategischer Ansatz
+
+Jedes Unternehmen bildet mit seinen Mitarbeitern für sich gesehen eine bestimmte Struktur: ein Geflecht aus kulturellen und persönlichen Beziehungen. Darin eingewoben jahrelang erworbenes Wissen und Fertigkeiten. Wenn das Unternehmensmanagement nichts falsch macht, steht das Unternehmen als Einheit für sich stabil, wie eine Zusammenstellung von Mikado-Stäbchen.
+
+Da die Unternehmen dringend Fachkräfte benötigen, suchen sie diese nicht mehr nur auf dem freien Arbeitsmarkt, sondern auch in der Mitarbeiterschaft fremder Unternehmen. Der gesamte Arbeitsmarkt ist zu einem "War of Talents" entbrannt. Die Spieler bedienen sich gegenseitig munter im Stäbchenbündel des anderen. Die Fachkräfte erhalten nahezu täglich Jobofferten von anderen Unternehmen, selbst wenn sie ihren Jobstatus auf Xing ua. auf _Nicht auf Jobsuche_ gestellt haben. Darum sollte jedes Unternehmen in zufriedene Mitarbeiter investieren. Ist die Mitarbeiterbindung gering, ist auch der Schutz vor fremden Spielzügen gering. Im Ernstfall werden so viele Mikadostäbchen
+gezogen, dass die einst stabile Struktur zerfällt.
+
+Innerhalb des sich immer schneller drehenden Personalkarussels gibt es also 3 Akteure: Das Unternehmen A und dessen Fachkraft, und das Unternehmen B, dass die Fachkraft lieber bei sich sehen würde. Jobikado hilft den Fachkräften, sich über eine Entscheidung bewußt zu werden. Es ist die Versinnbildlichung des _Rubber Band Model of Decision Making_.footnote:[Mikael Krogerus und Roman Tschappeler, The Decision Book: 50 Models for Strategic Thinking,  London 2012]
+
+.Rubber Band Model
+image::rubberbandmodel.png[pdfwidth=70%,align=left]
+
+- *Was hält dich*: die Bindung zu deinem derzeitigen Arbeitgeber.
+- *Was zieht dich*: das Jobangebot des fremden Unternehmens.
+
+Die Fachkraft wird durch Jobikado angehalten, zu überlegen, was sie an den derzeitigen Arbeitgeber bindet. Es konzentriert sich auf die positiven Aspekte der beiden Optionen. Niemand soll vorschnell aus negativen Erfahrungen, eventuell nur aus einer Abteilung herrührend, seinen derzeitigen Arbeitgeber verlassen.
+
+Jobikado erweitert als erstes Geschäftsmodell den Fokus weg von der zentrierten Person hin auf 3 Akteure, die gleichermaßen Verantwortung füreinander, aber auch für sich selbst übernehmen können. Je nach Einsatz der eigenen Ressourcen bringt Jobikado Vor- und Nachteile für die Mitspieler.footnote:[Adaption des Rubberband-Modells an Jobikado von Dave Boddin, Berlin 2020] Grundlage von Jobikado ist
+
+- *Transparenz*: kein vorschnelles Handeln der Beteiligten
+- *Ausgewogenheit*: jeder kann gleichermaßen Verantwortung übernehmen 
+
+Damit das Schreckenszenario einer hohen, zeitgleichen Fluktuation nicht eintritt, ist es für das Unternehmen besser, die Mitarbeiterzufriedenheit auf einem hohen Niveau zu halten. Der wirksamste Weg dahin ist eine *kontinuierliche Anpassung* des Gehalts der Fachkräfte. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft. Zugleich sollte sich das Unternehmen ein *ehrliches Feedback* der Fachkräfte einholen, um rechtzeitig gegensteuern zu können. Jobikado hat einen Weg gefunden, wie es die Realität auf dem Arbeitsmarkt und im Unternehmen UND die Befürfnisbefriedigung von Fachkraft und Unternehmen auf spielerische Weise vereint.
+
+== Umsetzung
+
+Mitten in der Konzeptionsphase von Jobikado lasen wir vom Journalisten S. Heuer in der Zeitschrift  _brand eins_, Heft 09/2019, S. 67, dass unsere Idee der regelmäßigen Gehaltsanpassung im Silicon-Valley bereits in Ansätzen praktiziert wird:
+
+[quote]
+____
+Behauptet der Kandidat, er habe bereits Offerten von der Konkurrenz? "Dann lassen wir uns diese Angebote schriftlich zeigen und denken über ein Gegenangebot nach", so der Personalchef des schnellwachsenden Start-ups. Netflix etwa ermutigt seine Angestellten, regelmäßig Bewerbungsgespräche mit anderen Unternehmen zu führen, damit sie ihren Marktwert kennen. "Wer das Gefühl hat dass ihm sein Arbeitgeber zu wenig zahlt, sollte das seinen Manager wissen lassen, damit der das Fluchtrisiko rechtzeitig einschätzen und ggf. reagieren kann", sagt eine Personalchefin.
+____
+
+Jobikado veranlasst jede Fachkraft, darüber nachzudenken, was sie eigentlich an das Unternehmen bindet. Und in einem zweiten Schritt: ab wieviel Prozent Gehaltssteigerung würde ich mich tiefgründig mit einer Jobofferte ein fremden Unternehmens befassen?
+
+Jobikado ist ein Business-Portal für Mitarbeiterbindung und Karriere mit einer *Gamification-Komponente*, welches vermeintliche Gegensätze vereint. Fachkräfte und Unternehmensleitung arbeiten in einem ausgewogenem Verhältnis zusammen. Wie das funktioniert, dass das folgende Herzstück des Portals bwz. sozialen Netzwerkes, die Jobikado-Weiche.
+
+=== Zwei Zielgruppen
+
+Jobikado richtet sich im Unternehmen
+
+* an die *Geschäftsführung* und
+* die *festangestellten Fachkräfte* ohne Personalverantwortung.
+
+Diese beiden Zielgruppen melden sich auf Jobikado an. Der Mitarbeiter hinterlegt im Wesentlichen das aktuelle Gehalt und seine fachlichen Qualifikationen.
+
+=== Gehaltsangebote mit Jobikado-Weiche
+
+Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) eine Jobofferte mit Gehaltsangebot. Dabei sieht es jedoch *nicht* das aktuelle Gehalt der angefragten Fachkraft. Es dient lediglich als Bezugsgröße:
+
+*Gehaltsangebot liegt über einer 20%igen Erhöhung des aktuellen Gehalts*
+
+* Die Fachkraft erhält das Angebot und kann entscheiden, ob sie zu diesem Unternehmen A Kontakt aufnimmt.
+* Das eigene Unternehmen B erfährt davon nichts.
+
+*Gehaltsangebot liegt unterhalb einer 20%igen Erhöhung des aktuellen Gehalts*
+
+* Die Fachkraft erhält das Angebot nicht. Sie bekommt lediglich Kenntnis, dass eines eingegangen ist.
+* Das eigene Unternehmen B erhält vom Angebot Kenntnis. Das Unternehmen kann nun entscheiden, ob es seinem Mitarbeiter mehr Gehalt zahlt.
+
+Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden.
+
+Überspitzt formuliert: Die Gehaltsangebote an fremde Fachkräfte wirken wie Raketenangriffe auf diese Unternehmen, jedoch bekommt jedes Unternehmen mit Jobikado einen Schutzschirm in die Hand. Für die Wirksamkeit dieses Schutzschirms kann jedes Unternehmen selbst etwas unternehmen: Es passt kontinuierlich das Gehalt der angefragten Fachkraft an.
+
+äääääääääääääääää
 
 *Sie sind Geschäftsführer?*
 
