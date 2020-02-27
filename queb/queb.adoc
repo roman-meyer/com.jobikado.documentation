@@ -1,7 +1,7 @@
 = Mitarbeiterbindung und Karriere: Queb HR Innovation Award - Startups
 Andreas Petersell, Roman Meyer
 :revnumber: 1.0
-:revdate: 25.02.2020
+:revdate: 27.02.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
 :icons: font
@@ -12,11 +12,6 @@ Andreas Petersell, Roman Meyer
 :title-logo-image: image:jobikado.png[pdfwidth=50%,align=right]
 :toc-title: Inhalt
 :toc: macro
-:caution-caption: :fire:
-:important-caption: :exclamation:
-:note-caption: :paperclip:
-:tip-caption: :bulb:
-:warning-caption: :warning:
 :chapter-label:
 :table-caption!:
 :figure-caption: Abb.
@@ -132,7 +127,7 @@ Aus diesen nachhaltigen Einnahmequellen kann Jobikado schöpfen:
 |Bisher|Mit Jobikado
 
 |Das Unternehmen erfährt erst durch Kündigung eines Mitarbeiters, dass etwas im Argen ist.
-|Das Unternehmen erhält *tagesaktuelle, unverfälschte Rückmeldung* von *mehreren* Mitarbeitern. Das Unternehmen erhält genügend Zeit, gegenzusteuern.
+|Das Unternehmen erhält *tagesaktuelle, unverfälschte Rückmeldung* von *mehreren* Mitarbeitern. Das Unternehmen hat nun genügend Zeit, gegenzusteuern.
 |===
 
 *Hohe Reputation*: Das Unternehmen findet Anerkennung als souveräner Arbeitgeber, der offen Probleme identifiziert, kommuniziert und löst.
@@ -140,8 +135,8 @@ Aus diesen nachhaltigen Einnahmequellen kann Jobikado schöpfen:
 |===
 |Bisher|Mit Jobikado
 
-|Unternehmen zeigt keine Eigeninitiative in Sachen Transparenz. Mitarbeiter bekunden ihren Unmut über das Unternehmen auf der externen Webseite _Kununu_.
-|Unternehmen ist um Transparenz bemüht und nimmt den Unmut direkt auf und sucht intern nach Lösungen.
+|Das Unternehmen zeigt keine Eigeninitiative in Sachen Transparenz. Mitarbeiter bekunden ihren Unmut über das Unternehmen auf der externen Webseite _Kununu_.
+|Das Unternehmen ist um Transparenz bemüht und nimmt den Unmut direkt auf und sucht intern nach Lösungen.
 |===
 
 === Value Proposition für die Fachkraft
@@ -182,4 +177,4 @@ Jobikado steht für
 Jobikado ist nicht nur ein Produkt, sondern auch eine Community. Das macht die besondere Wertschöpfung aus: Die Mitarbeiterbindung fundiert also nicht nur auf einem vertraulichem Agreement, sondern auch auf menschlichen Beziehungen der Beteiligten untereinander. Beide Kunden (Fachkräfte und Unternehmensleitungen) binden
 sich in einem ausgewogenen Verhältnis sowohl aneinander als auch ans Portal _Jobikado_.
 
-Jobikado kann noch keinen Prototypen aufweisen und ist, was die Wahl der Technologie uvm. betrifft, noch völlig offen. Das ist auch die Stärke von Jobikado: es steht auch in der Unternehmensform neuen Wegen aufgeschlossen gegenüber. Nachhaltigkeit konsequent zu Ende gedacht, könnte auch heißen, dass Jobikado eine Genossenschaft der Dateneigentümer werden kann - mit juristischen Personen (Unternehmen) als gleichberechtigte Mitglieder.
+Die Gründer erstellen derzeit einen Prototypen, sind aber, was die Wahl der Technologie uvm. betrifft, noch völlig offen. Das ist auch die Stärke von Jobikado: es steht auch in der Unternehmensform neuen Wegen aufgeschlossen gegenüber. Nachhaltigkeit konsequent zu Ende gedacht, könnte auch heißen, dass Jobikado eine Genossenschaft der Dateneigentümer werden kann - mit juristischen Personen (Unternehmen) als gleichberechtigte Mitglieder.
