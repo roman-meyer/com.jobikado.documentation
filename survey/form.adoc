@@ -1,1 +1,14 @@
 
+== Fragebogen
+
+// Erstmal einige mögliche Beispiele
+
+
+. Wieviel € wäre Dir eine Mitgliedschaft wert?
+. Welche Daten wärst Du bereit zu hinterlegen...?
+. Habt Ihr/ Du eine Idee zur technischen Umsetzung dieses Projektes? 
+.. Was wäre ein NoGo für Euch/ Dich? 
+.. Gibt es bereits OpenSource-Technologien?
+. Payment: Wie würde eine Bezahlvariante für Euch/ Dich aussehen?
+
+
