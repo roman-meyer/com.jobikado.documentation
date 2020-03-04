@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="fokus-matrix.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.55"
+     inkscape:cx="376.07299"
+     inkscape:cy="758.62747"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid825" />
+    <sodipodi:guide
+       position="100.54166,235.47917"
+       orientation="1,0"
+       id="guide4532"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="47.624999,240.77084"
+       orientation="1,0"
+       id="guide4534"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="74.083332,240.77084"
+       orientation="1,0"
+       id="guide4536"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="100.54166,211.66667"
+       orientation="1,0"
+       id="guide4538"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="127,232.83334"
+       orientation="1,0"
+       id="guide4540"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="153.45833,246.06251"
+       orientation="1,0"
+       id="guide4542"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="179.91666,224.89584"
+       orientation="1,0"
+       id="guide4544"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="52.916665,254.00001"
+       orientation="0,1"
+       id="guide4546"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="84.666665,227.54167"
+       orientation="0,1"
+       id="guide4548"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="97.895831,201.08334"
+       orientation="0,1"
+       id="guide4550"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="153.45833,174.625"
+       orientation="0,1"
+       id="guide4552"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5448"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <rect
+         y="16.541666"
+         x="21.166666"
+         height="132.29167"
+         width="158.75"
+         id="rect815"
+         style="opacity:0.82099998;fill:#ffffff;fill-opacity:1;stroke:#1e1e7d;stroke-width:0.26442629;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4530"
+         d="m 100.46718,29.665003 v 105.939167 0 0"
+         style="fill:none;stroke:#646464;stroke-width:1.90400004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#646464;stroke-width:2.12767315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 166.6875,82.634587 H 34.395833 v 0 0"
+         id="path4554"
+         inkscape:connector-curvature="0" />
+      <g
+         inkscape:export-ydpi="240"
+         inkscape:export-xdpi="240"
+         transform="matrix(0.6886353,0,0,0.6886353,106.74889,-3.4732691)"
+         id="g4961"
+         style="display:inline">
+        <g
+           id="g69"
+           transform="translate(17.193974,24.253835)"
+           style="opacity:0.82099998;fill:#e60046;fill-opacity:1">
+          <text
+             id="text12"
+             y="61.36964"
+             x="9.6005945"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e60046;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#e60046;fill-opacity:1;stroke-width:0.26458332"
+               y="61.36964"
+               x="9.6005945"
+               id="tspan10"
+               sodipodi:role="line">JOBI</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e60046;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="44.223209"
+             y="61.312943"
+             id="text16"><tspan
+               sodipodi:role="line"
+               id="tspan14"
+               x="44.223209"
+               y="61.312943"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#e60046;fill-opacity:1;stroke-width:0.26458332">ADO</tspan></text>
+          <g
+             transform="translate(1.0583333,1.5875)"
+             id="g48"
+             style="fill:#e60046;fill-opacity:1">
+            <g
+               id="g42"
+               style="fill:#e60046;fill-opacity:1">
+              <rect
+                 y="51.409969"
+                 x="35.945538"
+                 height="13.134672"
+                 width="1.2284226"
+                 id="rect26"
+                 style="fill:#e60046;fill-opacity:1;stroke-width:0.26458332" />
+              <rect
+                 transform="rotate(47.150278)"
+                 style="fill:#e60046;fill-opacity:1;stroke-width:0.26458332"
+                 id="rect28"
+                 width="1.2284226"
+                 height="13.134672"
+                 x="66.151611"
+                 y="3.0499487" />
+            </g>
+            <rect
+               y="59.316277"
+               x="-26.803213"
+               height="13.134672"
+               width="1.2284226"
+               id="rect30"
+               style="fill:#e60046;fill-opacity:1;stroke-width:0.26458332"
+               transform="rotate(-54.97862)" />
+          </g>
+        </g>
+        <rect
+           style="fill:#e60046;fill-opacity:1;stroke-width:0.21700674"
+           id="rect91"
+           width="61.592766"
+           height="12.525488"
+           x="25.447006"
+           y="75.524788" />
+        <text
+           id="text73"
+           y="85.675804"
+           x="26.970371"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#ffffff;stroke-width:0.26458332"
+             y="85.675804"
+             x="26.970371"
+             id="tspan71"
+             sodipodi:role="line">JOBI</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="61.06382"
+           y="85.61911"
+           id="text77"><tspan
+             sodipodi:role="line"
+             id="tspan75"
+             x="61.06382"
+             y="85.61911"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#ffffff;stroke-width:0.26458332">ADO</tspan></text>
+        <g
+           style="fill:#ffffff"
+           transform="translate(17.898942,25.3645)"
+           id="g87">
+          <g
+             style="fill:#ffffff"
+             id="g83">
+            <rect
+               y="51.409969"
+               x="35.945538"
+               height="13.134672"
+               width="1.2284226"
+               id="rect79"
+               style="fill:#ffffff;stroke-width:0.26458332" />
+            <rect
+               transform="rotate(47.150278)"
+               style="fill:#ffffff;stroke-width:0.26458332"
+               id="rect81"
+               width="1.2284226"
+               height="13.134672"
+               x="66.151611"
+               y="3.0499487" />
+          </g>
+          <rect
+             y="59.316277"
+             x="-26.803213"
+             height="13.134672"
+             width="1.2284226"
+             id="rect85"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             transform="rotate(-54.97862)" />
+        </g>
+      </g>
+      <rect
+         y="20.245956"
+         x="76.729164"
+         height="6.3499694"
+         width="47.625008"
+         id="rect5286"
+         style="opacity:0.82099998;fill:#4d4d4d;fill-opacity:1;stroke:#646464;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5228"
+         y="24.479166"
+         x="78.845825"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="24.479166"
+           x="78.845825"
+           id="tspan5226"
+           sodipodi:role="line">Steigerung des Gehalts</tspan></text>
+      <rect
+         y="139.83752"
+         x="84.666664"
+         height="6.3499694"
+         width="31.749998"
+         id="rect5282"
+         style="opacity:0.82099998;fill:#4d4d4d;fill-opacity:1;stroke:#646464;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="85.724998"
+         y="144.07066"
+         id="text5232"><tspan
+           sodipodi:role="line"
+           id="tspan5230"
+           x="85.724998"
+           y="144.07066"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.26458332">Stellenanzeigen</tspan></text>
+      <rect
+         style="opacity:0.82099998;fill:#4d4d4d;fill-opacity:1;stroke:#646464;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5288"
+         width="39.687496"
+         height="6.3499694"
+         x="137.58333"
+         y="84.804352" />
+      <text
+         id="text5236"
+         y="89.566704"
+         x="139.69986"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="89.566704"
+           x="139.69986"
+           id="tspan5234"
+           sodipodi:role="line">Mitarbeiterbindung</tspan></text>
+      <rect
+         style="opacity:0.82099998;fill:#4d4d4d;fill-opacity:1;stroke:#646464;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5284"
+         width="23.283394"
+         height="6.3499694"
+         x="24.870773"
+         y="84.804352" />
+      <text
+         id="text5240"
+         y="89.037537"
+         x="26.458275"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="89.037537"
+           x="26.458275"
+           id="tspan5238"
+           sodipodi:role="line">Socializing</tspan></text>
+      <text
+         id="text5244"
+         y="76.866692"
+         x="37.041664"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#008000;stroke-width:0.26458332"
+           y="76.866692"
+           x="37.041664"
+           id="tspan5242"
+           sodipodi:role="line">LinkedInd</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.850029"
+         y="35.062485"
+         id="text5256"><tspan
+           sodipodi:role="line"
+           id="tspan5254"
+           x="69.850029"
+           y="35.062485"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0000ff;stroke-width:0.26458332">Headhunter</tspan></text>
+      <text
+         id="text5260"
+         y="119.72921"
+         x="74.612534"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#806600;stroke-width:0.26458332"
+           y="119.72921"
+           x="74.612534"
+           id="tspan5258"
+           sodipodi:role="line">Monster</tspan></text>
+      <text
+         id="text5264"
+         y="40.883324"
+         x="56.62085"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0000ff;stroke-width:0.26458332"
+           y="40.883324"
+           x="56.62085"
+           id="tspan5262"
+           sodipodi:role="line">Personalberatung</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="39.6875"
+         y="108.08755"
+         id="text5268"><tspan
+           sodipodi:role="line"
+           id="tspan5266"
+           x="39.6875"
+           y="108.08755"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#008000;stroke-width:0.26458332">Xing</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="70.379196"
+         y="125.55006"
+         id="text5272"><tspan
+           sodipodi:role="line"
+           id="tspan5270"
+           x="70.379196"
+           y="125.55006"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#806600;stroke-width:0.26458332">Stepstone</tspan></text>
+      <text
+         id="text5276"
+         y="131.37083"
+         x="58.208351"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#806600;stroke-width:0.26458332"
+           y="131.37083"
+           x="58.208351"
+           id="tspan5274"
+           sodipodi:role="line">Google for Jobs</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="106.8917"
+         y="91.154205"
+         id="text5280"><tspan
+           sodipodi:role="line"
+           id="tspan5278"
+           x="106.8917"
+           y="91.154205"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#00aad4;stroke-width:0.26458332">Peakon</tspan></text>
+    </g>
+  </g>
+</svg>
