@@ -6,11 +6,17 @@
 $ gem update asciidoctor
 
 +++ PDF Jobikado Businessplan 
+// PDF rot Ahrensfelde
 asciidoctor-pdf --trace -D C:\Daten\com.jobikado.documentation\businessplan C:\Daten\com.jobikado.documentation\businessplan\businessplan.adoc
 
+// PDF rot Weissensee
 asciidoctor-pdf --trace -D C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan\businessplan.adoc
 
+// HTML rot Ahrensfelde
 asciidoctor -a linkcss -a allow-uri-read -v -a stylesheet=css\jobikado.css --trace -D C:\Daten\com.jobikado.documentation\businessplan\out\html C:\Daten\com.jobikado.documentation\businessplan\businessplan.adoc
 
-+++ PDF Jobikado Getting Started 
-asciidoctor-pdf --trace -D C:\Daten\com.jobikado.documentation\gettingstarted C:\Daten\com.jobikado.documentation\gettingstarted\gettingstarted.adoc
+// HTML rot Weissensee
+asciidoctor -a linkcss -a allow-uri-read -v -a stylesheet=css\jobikado.css --trace -D C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan\out\html C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan\businessplan.adoc
+
+## Farben
+Jobikado Roter Farbton: RGB 230, 0, 70 oder #E60046

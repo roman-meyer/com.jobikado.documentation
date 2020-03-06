@@ -68,6 +68,9 @@ Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) eine Jobo
 
 Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden.
 
+.Wer erhält das Jobangebot?
+image::jobikadoweiche.png[pdfwidth=90%,align=left]
+
 Überspitzt formuliert: Die Gehaltsangebote an fremde Fachkräfte wirken wie Raketenangriffe auf diese Unternehmen, jedoch bekommt jedes Unternehmen mit Jobikado einen Schutzschirm in die Hand. Für die Wirksamkeit dieses Schutzschirms kann jedes Unternehmen selbst etwas unternehmen: Es passt kontinuierlich das Gehalt der angefragten Fachkraft an.
 
 == Produkt
@@ -146,6 +149,9 @@ Ein Unternehmen A unterbreitet einer fremden Fachkraft (Unternehmen B) eine Jobo
 
 Die 20%-Marke ist anfänglich festgelegt. Sie kann zu einem späteren Zeitpunkt variabel angepasst werden. Diese Funktionalität, die _Jobikado-Weiche_, ist das Herzstück von Jobikado.
 
+.Wer erhält das Jobangebot?
+image::jobikadoweiche.png[pdfwidth=90%,align=left]
+
 Überspitzt formuliert: Die Gehaltsangebote an fremde Fachkräfte wirken wie Raketenangriffe auf diese Unternehmen, jedoch bekommt jedes Unternehmen mit Jobikado einen Schutzschirm in die Hand. Für die Wirksamkeit dieses Schutzschirms kann jedes Unternehmen selbst etwas unternehmen: Es passt kontinuierlich das Gehalt der angefragten Fachkraft an.
 indexterm:[Anonyme Gehaltsangebote]
 indexterm:[Weiche]
@@ -222,6 +228,9 @@ indexterm:[Peakon]
 *Mitarbeiterbindung* - Die Fachkraft vertraut der Geschäftsführung, dass diese aufgrund der Informationen über Gehaltsangebote fremder Firmen das Gehalt kontinuierlich anpasst. Die Fluktuation der Fachkräfte wird eingedämmt. Dies ist geradezu ein "just in time controlling" der Zufriedenheit und des Vertrauens der einzelnen Fachkräfte.
 
 *Permanentes Feedback* - Die  Kennzahl eines Unternehmens, der durchschnittliche Jobikado-Weichenwert in Prozent wird im Profil des Unternehmens sichtbar ausgegeben. Die Fachkräfte können den Standardwert von 20% verändern - erhöhen oder senken. Aus den Werten aller angemeldeten Fachkräfte eines Unternehmens wird der Durchschnittswert berechnet. Aus einem sinkenden Jobikado-Weichenwert kann die Unternehmensführung ersehen, dass die Bindung der Mitarbeiter an das Unternehmen schwindet. Sie sollte Ursachenforschung betreiben und gegensteuern.
+
+.Aktuelles ehrliches Feedback
+image::weichenwert-fuer-unternehmen.png[pdfwidth=90%,align=left]
 
 Der durchschnittliche Jobikado-Weichenwert ist ehrlich, da anonym. Er ist im höchsten Maße aktuell, denn die Fachkräfte passen ihn jederzeit an. Dieser Weichenwert dient nicht nur als Feedback-Signal, sondern hat konkrete Folgen: Es gehen mehr oder weniger Jobangebote an die Adresse der Fachkraft. Dagegen sind Arbeitgeber-Bewertung auf Kununu dagegen nahezu statisch und werten die Vergangenheit aus.
 
