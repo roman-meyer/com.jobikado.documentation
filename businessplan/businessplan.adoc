@@ -681,17 +681,126 @@ Aber auch der Vertrieb über Multiplikatoren wird eine große Rolle spielen. Die
 
 === Geschäftssystem und Kerngeschäft
 
+Geschäftlich arbeit Jobikado profitorientiert. Die Einnahmen sollen hauptsächlich aus monatlichen Abogebühren für die Nutzung der Plattform generiert werden. Durch ein Jobangebot oder durch den Abruf von aufbereiteten statistischen Daten werden weitere Einmalzahlungen eingebracht. Sowohl der Anwender, der seine Jobprofil hochlädt und als Fachkraft am Jobikado-System teilnimmt als auch die Firmen, die ihren Fachkräfte halten oder andere abwerben wollen, werden zu monatlichen Gebührenzahlungen gebeten. Dafür bietet Jobikado unterschiedliche Abo-Modelle an. 
+
+Wie sieht das Geschäftssystem für Ihr Produkt/Ihre Dienstleistung aus?
+Jobikado stellt als Plattform eine Technologie bereit, die es ermöglicht sukzessive zu wachsen. Zunächst werden Profile der Akteure auf Jobikado verarbeitet, dann wird die Jobikadoweiche bestimmt und Jobangebot sowie Messaging-Bus zu den Kernkomponenten hinzugefügt. Durch Marketing und Freund-von-Freund - Benachrichtigungen wird von Jobikado zunächst eine User-Zahl von 500 anvisiert, um weiteres wichtiges Feedback zu erlangen. Durch einen iterativen Verbesserungsprozess kann die Plattform an den Features feilen und die Nachfrage durch markttaugliche Produktoptimierungen erhöhen. Mit dem Abo-Modell wird Jobikado monatliche Einkünft generieren, die für Stabilität und Sicherheit beim Wachsen des Unternehmens aus der Sicht der Gründer sehr hilfreich ist. Die eingenommen Gelder werden zunehmend für den Ausbau der Plattform garantieren. 
+
+
+Auf welchen Aktivitäten liegt Ihr Fokus?
+
+
+Welche Aktivitäten wollen Sie selbst ausführen? 
+
+Vergeben Sie Aktivitäten an Dritte?
+
+Aus welchen Funktionen besteht Ihre Organisation und wie ist sie strukturiert?
+
+Wer ist wofür zuständig/verantwortlich?
+
+Wollen Sie mit Partnern zusammenarbeiten? 
+
+Was sind die Vorteile der Zusammenarbeit?
+
+Sind ökologische Aspekte (z. B. Energieverbrauch, Abfallentsorgung) bei allen Arbeitsabläufen (z. B. Büro, Produktion, Supply Chain) berücksichtigt?
+
+Sind gesellschaftliche Aspekte (z. B. Mitarbeiterinteressen) berücksichtigt?
+
+Nutzt Ihr Unternehmen aktiv die besonderen Chancen, die sich aus einer nachhaltigen Unternehmens-organisation ergeben (z. B. durch Ressourceneinsparungen)?
+
 === Organisation
+
+Als Organisationsform begründet sich Jobikado auf einer momentan noch angemeldeten GbR. 
+
+Aus welchen Funktionen besteht Ihre Organisation und wie ist sie strukturiert?
+
+Wie gestaltet sich die personelle Besetzung der wichtigsten Funktionen in Ihrem Unternehmen?
 
 === Meilensteinplanung
 
+Was sind die wichtigsten Meilensteine in der Entwicklung Ihres Unternehmens?
+
+Welche Aufgaben und Meilensteine hängen voneinander ab?
+
+Sind die Überlegungen sowohl optimistisch als auch realistisch?
+
+Wann und in welchem Umfang beginnen Sie mit dem Verkauf Ihrer Produkte/Leistungen  und zu welchem Preis? 
+
+Sind Beschaffung, Produktion und Absatz aufeinander abgestimmt?
+
+Welchen Personalbedarf haben Sie in den einzelnen Bereichen Ihres Unternehmens in den nächsten Geschäftsjahren?
+
+Welche Personalkosten fallen dabei an?
+
+Wie sieht Ihre kurzfristige Investitionsplanung aus?
+
+Welche Investitionen sind längerfristig geplant? 
+
+An welchen Meilensteinen werden diese fällig?
+
+Ist ein Nachhaltigkeitsmanagement geplant, das ökologische und gesellschaftliche Auswirkungendes Unternehmens messbar und beeinflussbar macht?
+
+Welche Kosten verursacht das Unternehmen (Produktions-, Vertriebs-, Verwaltungskosten)?
+
 === Rechtsform und Eigentumsverhältnisse
+
+Im weiteren Verlauf 2020 soll eine Umwandlung in eine UG (Unternehmensgemeinschaft) angestrebt werden. In ihrer Struktur werden die beiden Gründer Gesellschafter und Geschäftsführung stellen. Ein Wachstum um weitere Angestellten oder Gesellschafter soll mit der neuen Unternehmensform leichter erreicht werden.
+
+Wer sind die Gesellschafter und wer übernimmt die Geschäftsführung?
+
+Welche Standortfaktoren sind für Ihr Unternehmen wichtig?
 
 === Standort
 
+Der Hauptstandort der Jobikado - Gesellschaft ist Berlin. Eine Abweichung dieser Entscheidung ist auch zukünftig nicht vorgesehen. Die Netzwerke beider Gründer soll es Jobikado erleichtern, weitere Ressourcen für die Entwicklung der Plattform zu aquirieren. Bisher dienen die privaten Büros der Gründer und kurzfristig angemietete Shared Office Dienstleistungen als Geschäftsräume.
+
 == Finanzplanung und Finanzierung
 
+Die erwarteten Gewinne oder Verluste in den ersten Jahren (mit einer Übersicht der Gewinn-und-Verlust-Planung)
+
+Erreichung der Gewinnschwelle (Ab wann decken bzw. übersteigen die Erträge die Aufwendungen?)
+
+Höhe des Kapitalbedarfs
+
+Geplante Finanzierung
+
+Erläuterung, welche Annahmen Sie zur Schätzung der Erträge, Aufwendungen, Investitionen usw. getroffen haben.
+
 === Gewinn- und Verlustplanung
+
+Die erwarteten Gewinne oder Verluste in den ersten Jahren (mit einer Übersicht der Gewinn-und-Verlust-Planung)
+
+Erreichung der Gewinnschwelle (Ab wann decken bzw. übersteigen die Erträge die Aufwendungen?)
+
+Höhe des Kapitalbedarfs
+
+Geplante Finanzierung
+
+Erläuterung, welche Annahmen Sie zur Schätzung der Erträge, Aufwendungen, Investitionen usw. getroffen haben.
+
+Welche Investitionen werden Sie wann und in welchem Umfang tätigen?
+
+Wie hoch sind die aus der jeweiligen Investition entstehenden Abschreibungen?
+
+Liquiditätsplanung:Wie wird sich Ihre Liquidität entwickeln? 
+
+Ist Ihre Zahlungsfähigkeit gesichert?
+
+Ab wann rechnen Sie mit einem Einzahlungsüberschuss?
+
+Wie wirken sich gewährte Zahlungsziele (Skonti) auf Ihre Liquidität aus?
+
+Finanzbedarf:Wie hoch ist der sich aus der Liquiditätsplanung ergebende Finanzbedarf Ihres Unternehmens?
+
+Wie verteilt sich der Finanzbedarf auf die Dreijahresplanung?
+
+Welche Finanzierungsquellen (Fremdkapital, Eigenkapital) stehen Ihnen zur Deckung  des Finanzbedarfs zur Verfügung?
+
+Wann werden Sie dem Unternehmen aus welchen Quellen Kapital zuführen?
+
+Welche Geschäfts- und Finanzrisiken ergeben sich aus Ihrem Konzept und wie wollen Sie diesen entgegenwirken?
+
+Gewährleistet die Finanzplanung Ihrem Unternehmen langfristige Stabilität?
 
 [index]
 == Index
